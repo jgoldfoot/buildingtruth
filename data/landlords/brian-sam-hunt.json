@@ -1,0 +1,294 @@
+{
+  "id": "brian-sam-hunt",
+  "name": "Brian & Sam Hunt",
+  "slug": "brian-sam-hunt",
+  "total_units": 2,
+  "addresses": [
+    {
+      "street_number": "306",
+      "street_name": "BARTLETT",
+      "street_suffix": "ST",
+      "units": null
+    },
+    {
+      "street_number": "1964",
+      "street_name": "LARKIN",
+      "street_suffix": "ST",
+      "units": null
+    }
+  ],
+  "dbi_complaints": [
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77679",
+      "primary_key": "200119350-77679",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "fire section",
+      "item": "repair smoke enclosure door (807 707 hc)",
+      "nov_item_description": "provide roof door in good working condition to self close and fit flush to the door frame and latch.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77663",
+      "primary_key": "200119350-77663",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "interior surfaces section",
+      "item": "remove or cover damaged paint in an approved manner to prevent a lead hazard. see attached lead hazard warning. (1301 hc)",
+      "nov_item_description": "where required at the front exterior of the building and collected in a safe manner.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "200564221",
+      "item_sequence_number": "175867",
+      "primary_key": "200564221-175867",
+      "date_filed": "2005-10-26T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "interior surfaces section",
+      "item": "eliminate mold/mildew on ceiling (1301,1001b(13),1306 hc)",
+      "nov_item_description": "eliminate mold/mildew at bathroom area in unit#306",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200711356",
+      "item_sequence_number": "229301",
+      "primary_key": "200711356-229301",
+      "date_filed": "2007-07-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "other section",
+      "item": "provide shutoff tool for gas utility shutoff (712 hc)",
+      "nov_item_description": "install shut off tool in a visible and accessible location and adjacent to main gas valve.make sure that the type/size of the tool fits the existing valve(s)",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201477432",
+      "item_sequence_number": "646604",
+      "primary_key": "201477432-646604",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "plumbing and electrical section",
+      "item": "provide approved roof collection/drainage system (1503.4 sfbc, 1001-f,h sfhc)",
+      "nov_item_description": "damaged/deteriorated drain pipes were noted on the south side of the building. ensure that an approved roof drainage system exists that will collect all rain water from the roof and direct it into the sanitary sewer system on this property. repair/replace.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201477401",
+      "item_sequence_number": "643064",
+      "primary_key": "201477401-643064",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "plumbing and electrical section",
+      "item": "provide unit water heated to min. 105 degrees f. (41 degrees c.) and max. of 120 degrees f. at hot water taps. (505d(3), 1001 hc)",
+      "nov_item_description": "on the date of inspection the water temperature at the bathroom sink and at the tub were tested, with 60 and 91 fahrenheit degree readings respectively. provide hot water as required at bathroom plumbing fixtures.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-22T05:03:32.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    }
+  ],
+  "eviction_notices": [],
+  "rent_board_petitions": [],
+  "three_eleven_cases": [],
+  "building_permits": [],
+  "score": {
+    "composite_score": 82.5,
+    "insufficient_data": false,
+    "signals": {
+      "dbi_violations": {
+        "raw_value": 0.0582,
+        "percentile": 75,
+        "weighted": 22.5
+      },
+      "eviction_rate": {
+        "raw_value": 0,
+        "percentile": 100,
+        "weighted": 25
+      },
+      "rent_board_petitions": {
+        "raw_value": 0,
+        "percentile": 100,
+        "weighted": 20
+      },
+      "complaint_density": {
+        "raw_value": 0,
+        "percentile": 100,
+        "weighted": 15
+      },
+      "permit_investment": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      }
+    },
+    "record_counts": {
+      "dbi_complaints": 6,
+      "eviction_notices": 0,
+      "rent_board_petitions": 0,
+      "three_eleven_cases": 0,
+      "building_permits": 0
+    },
+    "scored_at": "2026-03-22T16:43:55.283Z"
+  }
+}

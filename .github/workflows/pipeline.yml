@@ -1,0 +1,47 @@
+name: Daily Data Pipeline
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (10 PM PST / 11 PM PDT)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run data pipeline
+        run: npx tsx scripts/pipeline.ts
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add data/leaderboard.json data/landlords/
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push updated data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "BuildingTruth Pipeline"
+          git config user.email "pipeline@buildingtruth.dev"
+          git commit -m "data: daily pipeline update $(date -u +%Y-%m-%d)"
+          git push

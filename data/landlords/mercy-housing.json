@@ -1,0 +1,51 @@
+{
+  "id": "mercy-housing",
+  "name": "Mercy Housing",
+  "slug": "mercy-housing",
+  "total_units": 0,
+  "addresses": [],
+  "dbi_complaints": [],
+  "eviction_notices": [],
+  "rent_board_petitions": [],
+  "three_eleven_cases": [],
+  "building_permits": [],
+  "score": {
+    "composite_score": null,
+    "insufficient_data": true,
+    "signals": {
+      "dbi_violations": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      },
+      "eviction_rate": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      },
+      "rent_board_petitions": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      },
+      "complaint_density": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      },
+      "permit_investment": {
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
+      }
+    },
+    "record_counts": {
+      "dbi_complaints": 0,
+      "eviction_notices": 0,
+      "rent_board_petitions": 0,
+      "three_eleven_cases": 0,
+      "building_permits": 0
+    },
+    "scored_at": "2026-03-22T16:43:55.284Z"
+  }
+}

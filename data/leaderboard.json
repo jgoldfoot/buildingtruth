@@ -1,0 +1,1190 @@
+{
+  "generated_at": "2026-03-22T16:43:55.282Z",
+  "total_landlords": 28,
+  "scored_landlords": 5,
+  "weights": {
+    "dbi_violations": 0.3,
+    "eviction_rate": 0.25,
+    "rent_board_petitions": 0.2,
+    "complaint_density": 0.15,
+    "permit_investment": 0.1
+  },
+  "leaderboard": [
+    {
+      "id": "thomas-aquilina",
+      "name": "Thomas Aquilina",
+      "slug": "thomas-aquilina",
+      "total_units": 1,
+      "composite_score": 17.5,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.5,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 25,
+          "weighted": 6.25
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 25,
+          "weighted": 5
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 25,
+          "weighted": 3.75
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 25,
+          "weighted": 2.5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 2,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "trinity-properties",
+      "name": "Trinity Properties",
+      "slug": "trinity-properties",
+      "total_units": 2,
+      "composite_score": 40,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.0331,
+          "percentile": 100,
+          "weighted": 30
+        },
+        "eviction_rate": {
+          "raw_value": 0.7854,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 2.2,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 1.9885,
+          "percentile": 100,
+          "weighted": 10
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 4,
+        "eviction_notices": 26,
+        "rent_board_petitions": 22,
+        "three_eleven_cases": 0,
+        "building_permits": 6
+      }
+    },
+    {
+      "id": "robert-imhoff",
+      "name": "Robert Imhoff / Landmark Realty",
+      "slug": "robert-imhoff",
+      "total_units": 3,
+      "composite_score": 45,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.3393,
+          "percentile": 25,
+          "weighted": 7.5
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 12.5
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 10
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 7.5
+        },
+        "permit_investment": {
+          "raw_value": 1.1611,
+          "percentile": 75,
+          "weighted": 7.5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 110,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 7
+      }
+    },
+    {
+      "id": "kaushik-dattani",
+      "name": "Kaushik Dattani / Dattani & Company",
+      "slug": "kaushik-dattani",
+      "total_units": 3,
+      "composite_score": 65,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.0842,
+          "percentile": 50,
+          "weighted": 15
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 18.75
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 15
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 11.25
+        },
+        "permit_investment": {
+          "raw_value": 0.3191,
+          "percentile": 50,
+          "weighted": 5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 20,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 3
+      }
+    },
+    {
+      "id": "brian-sam-hunt",
+      "name": "Brian & Sam Hunt",
+      "slug": "brian-sam-hunt",
+      "total_units": 2,
+      "composite_score": 82.5,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.0582,
+          "percentile": 75,
+          "weighted": 22.5
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 25
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 20
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 15
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 6,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "anne-kihagi",
+      "name": "Anne Kihagi",
+      "slug": "anne-kihagi",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "behnam-halali",
+      "name": "Behnam Halali",
+      "slug": "behnam-halali",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "benny-chetcuti",
+      "name": "Benny Chetcuti Jr.",
+      "slug": "benny-chetcuti",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "david-bellings",
+      "name": "David Bellings",
+      "slug": "david-bellings",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "de-baubigny-golob",
+      "name": "Helene de Baubigny & John Golob",
+      "slug": "de-baubigny-golob",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "elba-borgen",
+      "name": "Elba Borgen",
+      "slug": "elba-borgen",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "emily-benkert",
+      "name": "Emily Benkert",
+      "slug": "emily-benkert",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "equity-residential",
+      "name": "Equity Residential",
+      "slug": "equity-residential",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "essex-property-trust",
+      "name": "Essex Property Trust",
+      "slug": "essex-property-trust",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "flynn-development-group",
+      "name": "Flynn Development Group",
+      "slug": "flynn-development-group",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "lembi-group",
+      "name": "Lembi Group",
+      "slug": "lembi-group",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "maximus-real-estate-partners",
+      "name": "Maximus Real Estate Partners",
+      "slug": "maximus-real-estate-partners",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "mercy-housing",
+      "name": "Mercy Housing",
+      "slug": "mercy-housing",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "mosser-companies",
+      "name": "Mosser Companies",
+      "slug": "mosser-companies",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "pama-management",
+      "name": "PAMA Management / Mike Nijjar",
+      "slug": "pama-management",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "paul-peter-berger",
+      "name": "Paul and Peter Berger",
+      "slug": "paul-peter-berger",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "prado-group",
+      "name": "Prado Group",
+      "slug": "prado-group",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "prometheus-real-estate-group",
+      "name": "Prometheus Real Estate Group",
+      "slug": "prometheus-real-estate-group",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "related-companies",
+      "name": "Related Companies",
+      "slug": "related-companies",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "sergio-iantorno",
+      "name": "Sergio Iantorno",
+      "slug": "sergio-iantorno",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "sophie-jeffrey-lau",
+      "name": "Sophie & Jeffrey Lau",
+      "slug": "sophie-jeffrey-lau",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "tndc",
+      "name": "Tenderloin Neighborhood Development Corp",
+      "slug": "tndc",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "veritas-investments",
+      "name": "Veritas Investments",
+      "slug": "veritas-investments",
+      "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    }
+  ]
+}
