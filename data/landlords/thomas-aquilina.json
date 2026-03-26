@@ -11,125 +11,48 @@
       "units": 6
     }
   ],
-  "dbi_complaints": [
-    {
-      "complaint_number": "200008708",
-      "item_sequence_number": "59339",
-      "primary_key": "200008708-59339",
-      "date_filed": "2000-09-01T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "other section",
-      "item": "provide heat to each occupied habitable room for 13 hrs between 5:00 a.m. and 11:00 a.m. and between 3:00 p.m. and 10:00 p.m. capable to maintaining a min. room temp. of 68 degrees f. (20 degrees c.). (701c hc)",
-      "nov_item_description": "repair/replace inoperable gas heater note: if heater is replaced, you must obtain the appropriate plumbing/electrical permits",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116535,
-          37.749533129
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-03-24T05:04:03.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59359",
-      "primary_key": "200009395-59359",
-      "date_filed": "2000-09-22T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "security requirements section",
-      "item": "provide self-closing devices at exterior doors (706 hc)",
-      "nov_item_description": "provide self closing device to side exterior tradesma's door",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116535,
-          37.749533129
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-03-24T05:04:03.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    }
-  ],
+  "dbi_complaints": [],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": 17.5,
-    "insufficient_data": false,
+    "composite_score": null,
+    "insufficient_data": true,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.5,
+        "raw_value": 0,
         "percentile": 0,
         "weighted": 0
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 6.25
+        "percentile": 0,
+        "weighted": 0
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 5
+        "percentile": 0,
+        "weighted": 0
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 3.75
+        "percentile": 0,
+        "weighted": 0
       },
       "permit_investment": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 2.5
+        "percentile": 0,
+        "weighted": 0
       }
     },
     "record_counts": {
-      "dbi_complaints": 2,
+      "dbi_complaints": 0,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-03-25T06:58:13.725Z"
+    "scored_at": "2026-03-26T07:03:46.961Z"
   }
 }
