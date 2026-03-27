@@ -23,48 +23,364 @@
       "units": 13
     }
   ],
-  "dbi_complaints": [],
+  "dbi_complaints": [
+    {
+      "complaint_number": "200115035",
+      "item_sequence_number": "70028",
+      "primary_key": "200115035-70028",
+      "date_filed": "2001-03-06T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "plumbing and electrical section",
+      "item": "repair deteriorated drainage pipes at exterior (1001f hc)",
+      "nov_item_description": "repair/replace clogged floor waste drain by rear stairway's",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-26T05:09:25.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201319651",
+      "item_sequence_number": "565005",
+      "primary_key": "201319651-565005",
+      "date_filed": "2013-08-23T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "interior surfaces section",
+      "item": "eliminate mold/mildew on ceiling (1301,1001b(13),1306 hc)",
+      "nov_item_description": "eliminate mold/mildew formation from bathroom ceiling.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-26T05:09:25.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201447244",
+      "item_sequence_number": "596147",
+      "primary_key": "201447244-596147",
+      "date_filed": "2014-01-15T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "security requirements section",
+      "item": "provide minimum 135 degree viewer for entry door (max mounting ht of 58\") (706 hc)",
+      "nov_item_description": "unit #3305: provide an approved viewer to the front entry door to unit #3305.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-26T05:09:25.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "202313733",
+      "item_sequence_number": "1382206",
+      "primary_key": "202313733-1382206",
+      "date_filed": "2023-09-22T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "provide for compliance affidavit (sfhc 420.4, 907.211 and 340.1.6.1 )",
+      "nov_item_description": "complete the 420 affidavit provided for self certification for smoke detectors and carbon monoxide alarms. provide to inspector at the time of reinspection, send to inspector yee at 49 south van ness avenue, san francisco, ca 94103, fax to (628) 652-3709 or email the forms to dennis.yee@sfgov.org.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-26T05:09:25.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200115035",
+      "item_sequence_number": "70030",
+      "primary_key": "200115035-70030",
+      "date_filed": "2001-03-06T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "sanitation section",
+      "item": "provide adequate number of garbage receptacles (1304 hc)",
+      "nov_item_description": "provide additional garbage receptacles to building.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-26T05:09:25.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    }
+  ],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
-  "building_permits": [],
+  "building_permits": [
+    {
+      "permit_number": "201210303085",
+      "permit_type": "7",
+      "permit_type_definition": "wall or painted sign",
+      "permit_creation_date": "2012-10-30T00:00:00.000",
+      "block": "3616",
+      "lot": "009",
+      "street_number": "3224",
+      "street_name": "22nd",
+      "street_suffix": "St",
+      "description": "paint on fabric of awning",
+      "status": "cancelled",
+      "status_date": "2026-01-09T08:46:52.000",
+      "filed_date": "2012-10-30T10:18:41.000",
+      "estimated_cost": "5000.0",
+      "plansets": "2",
+      "last_permit_activity_date": "1960-01-01T00:00:00.000",
+      "application_submission_method": "in-house",
+      "adu": "N",
+      "primary_address_flag": "Y",
+      "supervisor_district": "9",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419552246,
+          37.755527381
+        ]
+      },
+      "point_source": "eas_address_point",
+      "record_id": "1287066162283",
+      "data_as_of": "2026-01-11T01:05:01.000",
+      "data_loaded_at": "2026-01-11T04:54:22.840"
+    },
+    {
+      "permit_number": "201512185536",
+      "permit_type": "8",
+      "permit_type_definition": "otc alterations permit",
+      "permit_creation_date": "2015-12-18T00:00:00.000",
+      "block": "3616",
+      "lot": "009",
+      "street_number": "3224",
+      "street_name": "22nd",
+      "street_suffix": "St",
+      "description": "install new fabric awning at storefront",
+      "status": "cancelled",
+      "status_date": "2026-01-09T08:46:52.000",
+      "filed_date": "2015-12-18T13:11:39.000",
+      "number_of_existing_stories": "4",
+      "number_of_proposed_stories": "4",
+      "estimated_cost": "1000.0",
+      "revised_cost": "0.0",
+      "existing_use": "food/beverage hndlng",
+      "existing_units": "3.0",
+      "proposed_use": "food/beverage hndlng",
+      "proposed_units": "3.0",
+      "plansets": "2",
+      "existing_occupancy": "B,R-2",
+      "proposed_occupancy": "B,R-2",
+      "existing_construction_type": "5",
+      "existing_construction_type_description": "wood frame (5)",
+      "proposed_construction_type": "5",
+      "proposed_construction_type_description": "wood frame (5)",
+      "last_permit_activity_date": "1960-01-01T00:00:00.000",
+      "application_submission_method": "in-house",
+      "adu": "N",
+      "primary_address_flag": "Y",
+      "supervisor_district": "9",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419552246,
+          37.755527381
+        ]
+      },
+      "point_source": "eas_address_point",
+      "record_id": "1407105162283",
+      "data_as_of": "2026-01-11T01:05:01.000",
+      "data_loaded_at": "2026-01-11T04:54:22.840"
+    },
+    {
+      "permit_number": "201510301263",
+      "permit_type": "4",
+      "permit_type_definition": "sign - erect",
+      "permit_creation_date": "2015-10-30T00:00:00.000",
+      "block": "3616",
+      "lot": "009",
+      "street_number": "3224",
+      "street_name": "22nd",
+      "street_suffix": "St",
+      "description": "erect an electric doubld faced wall sign for \"futo sushi burrito\". building not visible in photos, inspection necessary.",
+      "status": "cancelled",
+      "status_date": "2026-01-09T08:39:29.000",
+      "filed_date": "2015-10-30T10:09:02.000",
+      "number_of_existing_stories": "3",
+      "estimated_cost": "700.0",
+      "existing_use": "food/beverage hndlng",
+      "existing_units": "3.0",
+      "plansets": "2",
+      "existing_occupancy": "B,M,R-2",
+      "existing_construction_type": "5",
+      "existing_construction_type_description": "wood frame (5)",
+      "last_permit_activity_date": "2016-02-24T11:26:05.000",
+      "application_submission_method": "in-house",
+      "adu": "N",
+      "primary_address_flag": "Y",
+      "supervisor_district": "9",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419552246,
+          37.755527381
+        ]
+      },
+      "point_source": "eas_address_point",
+      "record_id": "1401386162283",
+      "data_as_of": "2026-01-11T01:05:01.000",
+      "data_loaded_at": "2026-01-11T04:54:22.840"
+    }
+  ],
   "score": {
-    "composite_score": null,
-    "insufficient_data": true,
+    "composite_score": 80,
+    "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.0296,
+        "percentile": 100,
+        "weighted": 30
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 75,
+        "weighted": 18.75
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 75,
+        "weighted": 15
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 75,
+        "weighted": 11.25
       },
       "permit_investment": {
-        "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.3191,
+        "percentile": 50,
+        "weighted": 5
       }
     },
     "record_counts": {
-      "dbi_complaints": 0,
+      "dbi_complaints": 5,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
-      "building_permits": 0
+      "building_permits": 3
     },
-    "scored_at": "2026-03-26T07:03:46.954Z"
+    "scored_at": "2026-03-27T07:02:58.990Z"
   }
 }
