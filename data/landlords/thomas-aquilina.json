@@ -11,125 +11,48 @@
       "units": 6
     }
   ],
-  "dbi_complaints": [
-    {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59359",
-      "primary_key": "200009395-59359",
-      "date_filed": "2000-09-22T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "security requirements section",
-      "item": "provide self-closing devices at exterior doors (706 hc)",
-      "nov_item_description": "provide self closing device to side exterior tradesma's door",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116535,
-          37.749533129
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-03-26T05:09:25.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "202200255",
-      "item_sequence_number": "1368810",
-      "primary_key": "202200255-1368810",
-      "date_filed": "2022-12-15T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "submit smoke/carbon compliance affidavit (420.4, 907.2.11 & 3401.6.1 sfbc)",
-      "nov_item_description": "a smoke & carbon monoxide alarm compliance affidavit is due for this property. install the required alarms and submit the required compliance affidavit to the housing inspector at stephen.mungovan@sfgov.org or the housing inspection division of the department of building inspection. a smoke/carbon compliance affidavit has been included in this mailing.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116535,
-          37.749533129
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-03-26T05:09:25.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    }
-  ],
+  "dbi_complaints": [],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": 40,
-    "insufficient_data": false,
+    "composite_score": null,
+    "insufficient_data": true,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0337,
-        "percentile": 75,
-        "weighted": 22.5
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 6.25
+        "percentile": 0,
+        "weighted": 0
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 5
+        "percentile": 0,
+        "weighted": 0
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 3.75
+        "percentile": 0,
+        "weighted": 0
       },
       "permit_investment": {
         "raw_value": 0,
-        "percentile": 25,
-        "weighted": 2.5
+        "percentile": 0,
+        "weighted": 0
       }
     },
     "record_counts": {
-      "dbi_complaints": 2,
+      "dbi_complaints": 0,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-03-27T07:02:58.999Z"
+    "scored_at": "2026-03-28T06:54:45.846Z"
   }
 }

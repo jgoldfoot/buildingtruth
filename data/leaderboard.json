@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-27T07:02:58.984Z",
+  "generated_at": "2026-03-28T06:54:45.831Z",
   "total_landlords": 28,
-  "scored_landlords": 5,
+  "scored_landlords": 3,
   "weights": {
     "dbi_violations": 0.3,
     "eviction_rate": 0.25,
@@ -15,13 +15,13 @@
       "name": "Trinity Properties",
       "slug": "trinity-properties",
       "total_units": 2,
-      "composite_score": 17.5,
+      "composite_score": 10,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1108,
-          "percentile": 25,
-          "weighted": 7.5
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
         },
         "eviction_rate": {
           "raw_value": 0.7854,
@@ -29,7 +29,7 @@
           "weighted": 0
         },
         "rent_board_petitions": {
-          "raw_value": 2.3,
+          "raw_value": 0,
           "percentile": 0,
           "weighted": 0
         },
@@ -45,9 +45,9 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 3,
+        "dbi_complaints": 0,
         "eviction_notices": 26,
-        "rent_board_petitions": 23,
+        "rent_board_petitions": 0,
         "three_eleven_cases": 0,
         "building_permits": 6
       }
@@ -57,13 +57,13 @@
       "name": "Robert Imhoff / Landmark Realty",
       "slug": "robert-imhoff",
       "total_units": 3,
-      "composite_score": 37.5,
+      "composite_score": 50,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.2086,
-          "percentile": 0,
-          "weighted": 0
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 15
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -82,12 +82,12 @@
         },
         "permit_investment": {
           "raw_value": 1.1611,
-          "percentile": 75,
-          "weighted": 7.5
+          "percentile": 50,
+          "weighted": 5
         }
       },
       "record_counts": {
-        "dbi_complaints": 58,
+        "dbi_complaints": 0,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -95,59 +95,17 @@
       }
     },
     {
-      "id": "thomas-aquilina",
-      "name": "Thomas Aquilina",
-      "slug": "thomas-aquilina",
-      "total_units": 1,
-      "composite_score": 40,
+      "id": "kaushik-dattani",
+      "name": "Kaushik Dattani / Dattani & Company",
+      "slug": "kaushik-dattani",
+      "total_units": 3,
+      "composite_score": 90,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0337,
-          "percentile": 75,
-          "weighted": 22.5
-        },
-        "eviction_rate": {
           "raw_value": 0,
-          "percentile": 25,
-          "weighted": 6.25
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 25,
-          "weighted": 5
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 25,
-          "weighted": 3.75
-        },
-        "permit_investment": {
-          "raw_value": 0,
-          "percentile": 25,
-          "weighted": 2.5
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 2,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 0
-      }
-    },
-    {
-      "id": "brian-sam-hunt",
-      "name": "Brian & Sam Hunt",
-      "slug": "brian-sam-hunt",
-      "total_units": 2,
-      "composite_score": 75,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.1068,
-          "percentile": 50,
-          "weighted": 15
+          "percentile": 100,
+          "weighted": 30
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -165,55 +123,13 @@
           "weighted": 15
         },
         "permit_investment": {
-          "raw_value": 0,
+          "raw_value": 0.3191,
           "percentile": 0,
           "weighted": 0
         }
       },
       "record_counts": {
-        "dbi_complaints": 11,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 0
-      }
-    },
-    {
-      "id": "kaushik-dattani",
-      "name": "Kaushik Dattani / Dattani & Company",
-      "slug": "kaushik-dattani",
-      "total_units": 3,
-      "composite_score": 80,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.0296,
-          "percentile": 100,
-          "weighted": 30
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 18.75
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 15
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 11.25
-        },
-        "permit_investment": {
-          "raw_value": 0.3191,
-          "percentile": 50,
-          "weighted": 5
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 5,
+        "dbi_complaints": 0,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -309,6 +225,48 @@
       "name": "Benny Chetcuti Jr.",
       "slug": "benny-chetcuti",
       "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "brian-sam-hunt",
+      "name": "Brian & Sam Hunt",
+      "slug": "brian-sam-hunt",
+      "total_units": 2,
       "composite_score": null,
       "insufficient_data": true,
       "signals": {
@@ -1065,6 +1023,48 @@
       "name": "Sophie & Jeffrey Lau",
       "slug": "sophie-jeffrey-lau",
       "total_units": 0,
+      "composite_score": null,
+      "insufficient_data": true,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
+    {
+      "id": "thomas-aquilina",
+      "name": "Thomas Aquilina",
+      "slug": "thomas-aquilina",
+      "total_units": 1,
       "composite_score": null,
       "insufficient_data": true,
       "signals": {
