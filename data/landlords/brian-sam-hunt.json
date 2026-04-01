@@ -17,34 +17,336 @@
       "units": null
     }
   ],
-  "dbi_complaints": [],
+  "dbi_complaints": [
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77668",
+      "primary_key": "200119350-77668",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "replace window sash cord (1001(h),708 hc)",
+      "nov_item_description": "where required at the front building windows visible from the street.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77682",
+      "primary_key": "200119350-77682",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "fire section",
+      "item": "permanently remove combustible storage or provide automatic fire sprinklers. (904, 1001(i) hc)",
+      "nov_item_description": "from under the rear stair",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "200711356",
+      "item_sequence_number": "229295",
+      "primary_key": "200711356-229295",
+      "date_filed": "2007-07-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "provide handrails (802(c),1001(b)(13)hc)",
+      "nov_item_description": "provide handrails for the rear stair: handrail shall be 34\"-38\" height from the tread nose and the ends of the handrail shall be returned or shall have rounded terminations or bends. note: handrail shall be a gripping surface (graspability) ubc. code sec 1003.3.3.6",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200564221",
+      "item_sequence_number": "175870",
+      "primary_key": "200564221-175870",
+      "date_filed": "2005-10-26T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "security requirements section",
+      "item": "provide self-closing devices at exterior doors (706 hc)",
+      "nov_item_description": "provide a self-closing device with proper deadlatch lock to rear exterior door of property.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200564221",
+      "item_sequence_number": "175863",
+      "primary_key": "200564221-175863",
+      "date_filed": "2005-10-26T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "unit#306 & common public areas of building",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201477432",
+      "item_sequence_number": "643965",
+      "primary_key": "201477432-643965",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "common areas.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827897,
+          37.751833023
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201081046",
+      "primary_key": "201081046",
+      "date_filed": "2010-12-02T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Plumbing Inspection Division",
+      "assigned_division": "Plumbing Inspection Division",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "code_violation_desc": "Water heater installed w/o permit (2007 CPC Chapter 1 & 5).  Next communicatioin from City Attorney's office.",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "201310061",
+      "primary_key": "201310061",
+      "date_filed": "2013-06-27T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Inspection Services",
+      "assigned_division": "Electrical Inspection Division",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "code_violation_desc": "Notice of Violation sent USPS on 17-Sept-13 stating:  Alteration of basement wiring without the benefit of an electrical permit.  Branch circuits for common storage areas fed from Unit #1964 panel.  Unapproved extension cord wiring throughout the basement.  (SFEC Code 89.120, 89.123, 89.124, 89.125, 89.126, & 89. 127)",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797343,
+          37.795966983
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-03-31T05:07:22.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    }
+  ],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": null,
-    "insufficient_data": true,
+    "composite_score": 67.5,
+    "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.0776,
+        "percentile": 25,
+        "weighted": 7.5
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 25
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 20
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 15
       },
       "permit_investment": {
         "raw_value": 0,
@@ -53,12 +355,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 0,
+      "dbi_complaints": 8,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-03-31T07:08:17.549Z"
+    "scored_at": "2026-04-01T07:15:28.602Z"
   }
 }
