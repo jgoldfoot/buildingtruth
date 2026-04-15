@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T07:25:16.783Z",
+  "generated_at": "2026-04-15T07:25:48.547Z",
   "total_landlords": 28,
-  "scored_landlords": 1,
+  "scored_landlords": 3,
   "weights": {
     "dbi_violations": 0.3,
     "eviction_rate": 0.25,
@@ -15,6 +15,48 @@
       "name": "Trinity Properties",
       "slug": "trinity-properties",
       "total_units": 2,
+      "composite_score": 10,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 1.9887,
+          "percentile": 100,
+          "weighted": 10
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 6
+      }
+    },
+    {
+      "id": "robert-imhoff",
+      "name": "Robert Imhoff / Landmark Realty",
+      "slug": "robert-imhoff",
+      "total_units": 3,
       "composite_score": 50,
       "insufficient_data": false,
       "signals": {
@@ -29,7 +71,7 @@
           "weighted": 12.5
         },
         "rent_board_petitions": {
-          "raw_value": 2.3,
+          "raw_value": 0,
           "percentile": 50,
           "weighted": 10
         },
@@ -39,7 +81,7 @@
           "weighted": 7.5
         },
         "permit_investment": {
-          "raw_value": 0,
+          "raw_value": 1.1611,
           "percentile": 50,
           "weighted": 5
         }
@@ -47,9 +89,51 @@
       "record_counts": {
         "dbi_complaints": 0,
         "eviction_notices": 0,
-        "rent_board_petitions": 23,
+        "rent_board_petitions": 0,
         "three_eleven_cases": 0,
-        "building_permits": 0
+        "building_permits": 7
+      }
+    },
+    {
+      "id": "kaushik-dattani",
+      "name": "Kaushik Dattani / Dattani & Company",
+      "slug": "kaushik-dattani",
+      "total_units": 3,
+      "composite_score": 90,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 30
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 25
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 20
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 100,
+          "weighted": 15
+        },
+        "permit_investment": {
+          "raw_value": 0.3191,
+          "percentile": 0,
+          "weighted": 0
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 3
       }
     },
     {
@@ -515,48 +599,6 @@
       }
     },
     {
-      "id": "kaushik-dattani",
-      "name": "Kaushik Dattani / Dattani & Company",
-      "slug": "kaushik-dattani",
-      "total_units": 3,
-      "composite_score": null,
-      "insufficient_data": true,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "permit_investment": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 0,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 0
-      }
-    },
-    {
       "id": "lembi-group",
       "name": "Lembi Group",
       "slug": "lembi-group",
@@ -897,48 +939,6 @@
       "name": "Related Companies",
       "slug": "related-companies",
       "total_units": 0,
-      "composite_score": null,
-      "insufficient_data": true,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "permit_investment": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 0,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 0
-      }
-    },
-    {
-      "id": "robert-imhoff",
-      "name": "Robert Imhoff / Landmark Realty",
-      "slug": "robert-imhoff",
-      "total_units": 3,
       "composite_score": null,
       "insufficient_data": true,
       "signals": {
