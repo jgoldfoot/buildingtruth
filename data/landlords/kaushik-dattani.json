@@ -23,7 +23,271 @@
       "units": 13
     }
   ],
-  "dbi_complaints": [],
+  "dbi_complaints": [
+    {
+      "complaint_number": "202313733",
+      "item_sequence_number": "1382205",
+      "primary_key": "202313733-1382205",
+      "date_filed": "2023-09-22T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "provide shutoff tool for gas utility shutoff (712 hc) post enclosed gas meter instructional diagram in a public area. (712 hc)",
+      "nov_item_description": "located at gas meter of the property.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200115035",
+      "item_sequence_number": "69718",
+      "primary_key": "200115035-69718",
+      "date_filed": "2001-03-06T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "repair stairs (1001(b)(13)hc)",
+      "nov_item_description": "extensive wood deterioration was noted throughout the rear stairway. the landing board between the ground and first floor is severely deteriorated in variouis locations. this stairway constitudes a life hazard as defined in the san francisco housing code sec.401 you are required within 15 days to file a building permit application and commence repairs. you are required to complete the work within 30 days.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "199601323",
+      "item_sequence_number": "1914",
+      "primary_key": "199601323-1914",
+      "date_filed": "1996-09-25T00:00:00.000",
+      "block": "3616",
+      "lot": "009",
+      "street_number": "3224",
+      "street_name": "22nd",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "repair weather proofing at roof (1001(h),703 hc)",
+      "nov_item_description": "replace damaged roof surfaces, causing water damage to wall and ceiling surfaces in : 1)livingroom 2) 1st bedroom 3) extensive damage to southernly linen closet wall.3) second bedroom ceiling surfaces.1001hc remove all water damage plaster, replaster and paint water damaged surfaces.1001hc/1301hc.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419552246,
+          37.755527381
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201319651",
+      "item_sequence_number": "565004",
+      "primary_key": "201319651-565004",
+      "date_filed": "2013-08-23T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "this notice of violation describes violations found at the subject property, located at 3305 20th street.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201447244",
+      "item_sequence_number": "596146",
+      "primary_key": "201447244-596146",
+      "date_filed": "2014-01-15T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "plumbing and electrical section",
+      "item": "make necessary repairs to tub/shower (1001 hc)",
+      "nov_item_description": "unit #3305: the tub drain in the bathroom was running slow at the time of inpsection. clean the drain as required.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201193830",
+      "primary_key": "201193830",
+      "date_filed": "2011-02-07T00:00:00.000",
+      "block": "3596",
+      "lot": "103",
+      "street_number": "3465",
+      "street_name": "19th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Building Inspection Division",
+      "assigned_division": "Code Enforcement Section",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "code_violation_desc": "You failed to comply with NOV#201193830 dated 2/7/2011.  SFBC 106, et seq.",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420772193,
+          37.760038838
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200115035",
+      "item_sequence_number": "70030",
+      "primary_key": "200115035-70030",
+      "date_filed": "2001-03-06T00:00:00.000",
+      "block": "3611",
+      "lot": "001",
+      "street_number": "3305",
+      "street_name": "20th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "sanitation section",
+      "item": "provide adequate number of garbage receptacles (1304 hc)",
+      "nov_item_description": "provide additional garbage receptacles to building.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415033065,
+          37.758773374
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-04-18T05:04:53.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    }
+  ],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
@@ -154,42 +418,42 @@
     }
   ],
   "score": {
-    "composite_score": 90,
+    "composite_score": 80,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0,
+        "raw_value": 0.0309,
         "percentile": 100,
         "weighted": 30
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 100,
-        "weighted": 25
+        "percentile": 75,
+        "weighted": 18.75
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 100,
-        "weighted": 20
+        "percentile": 75,
+        "weighted": 15
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 100,
-        "weighted": 15
+        "percentile": 75,
+        "weighted": 11.25
       },
       "permit_investment": {
         "raw_value": 0.3191,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 50,
+        "weighted": 5
       }
     },
     "record_counts": {
-      "dbi_complaints": 0,
+      "dbi_complaints": 7,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 3
     },
-    "scored_at": "2026-04-18T07:01:47.417Z"
+    "scored_at": "2026-04-19T07:13:25.119Z"
   }
 }
