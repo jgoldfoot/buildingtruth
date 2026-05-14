@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-13T08:40:16.079Z",
+  "generated_at": "2026-05-14T08:33:54.810Z",
   "total_landlords": 28,
-  "scored_landlords": 0,
+  "scored_landlords": 1,
   "weights": {
     "dbi_violations": 0.3,
     "eviction_rate": 0.25,
@@ -10,6 +10,48 @@
     "permit_investment": 0.1
   },
   "leaderboard": [
+    {
+      "id": "trinity-properties",
+      "name": "Trinity Properties",
+      "slug": "trinity-properties",
+      "total_units": 2,
+      "composite_score": 50,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 15
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 12.5
+        },
+        "rent_board_petitions": {
+          "raw_value": 2.3,
+          "percentile": 50,
+          "weighted": 10
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 7.5
+        },
+        "permit_investment": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 0,
+        "eviction_notices": 0,
+        "rent_board_petitions": 23,
+        "three_eleven_cases": 0,
+        "building_permits": 0
+      }
+    },
     {
       "id": "anne-kihagi",
       "name": "Anne Kihagi",
@@ -1065,48 +1107,6 @@
       "name": "Tenderloin Neighborhood Development Corp",
       "slug": "tndc",
       "total_units": 0,
-      "composite_score": null,
-      "insufficient_data": true,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "permit_investment": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 0,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 0
-      }
-    },
-    {
-      "id": "trinity-properties",
-      "name": "Trinity Properties",
-      "slug": "trinity-properties",
-      "total_units": 2,
       "composite_score": null,
       "insufficient_data": true,
       "signals": {
