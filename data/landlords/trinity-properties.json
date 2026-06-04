@@ -20,8 +20,8 @@
   "dbi_complaints": [
     {
       "complaint_number": "201587342",
-      "item_sequence_number": "825546",
-      "primary_key": "201587342-825546",
+      "item_sequence_number": "825547",
+      "primary_key": "201587342-825547",
       "date_filed": "2015-12-21T00:00:00.000",
       "block": "0047",
       "lot": "002B",
@@ -31,9 +31,9 @@
       "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "fire section",
-      "item": "maintain fire escape drop ladder in working condition (sec 908 hc)",
-      "nov_item_description": "on the east side of the building. note: on reinspection day, property manager, owner or the owner's agent needs to demonstrate the workability of the fire escape ladders. provide a written and signed report from a qualified service company or contractor stating that all parts and cables have been tested and are functional or you are required to lower the ladder on re-inspection day to verify its proper full release. all fire escape drop ladders must be maintained and serviced annually, particularly the cable and all moving parts. lubricate and drop the ladder at least once a year.",
+      "nov_category_description": "smoke detection section",
+      "item": "provide a minimum one carbon monixide alarm/detector per dwelling unit/apartment(907.2.11 (sfbc)",
+      "nov_item_description": "provide a affidavit-self certification for the smoke detector & carbon monoxide alarms test smoke detectors on a regular basis and replace batteries annually to maintain a working and functional device. advise occupants not to disconnect the batteries or remove the units inside the apartments or from public areas.",
       "neighborhoods_analysis_boundaries": "Russian Hill",
       "supervisor_district": "2",
       "zipcode": "94109",
@@ -45,7 +45,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-06-02T05:06:46.000",
+      "data_as_of": "2026-06-03T05:04:15.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -58,8 +58,8 @@
     },
     {
       "complaint_number": "202315970",
-      "item_sequence_number": "1384526",
-      "primary_key": "202315970-1384526",
+      "item_sequence_number": "1384527",
+      "primary_key": "202315970-1384527",
       "date_filed": "2023-11-14T00:00:00.000",
       "block": "0047",
       "lot": "002B",
@@ -70,8 +70,8 @@
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
       "nov_category_description": "building section",
-      "item": "provide utility shutoff tool and post devices diagram (712 sfhc)",
-      "nov_item_description": "provide shutoff tool that can be used to shutoff the gas. provide shutoff tool that can be used to shutoff the gas.",
+      "item": "repair leak (1001 sfhc)",
+      "nov_item_description": "in boiler room, pipes are leaking. repair or replace. if replaced, permits required.",
       "neighborhoods_analysis_boundaries": "Russian Hill",
       "supervisor_district": "2",
       "zipcode": "94109",
@@ -83,45 +83,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-06-02T05:06:46.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
-      "complaint_number": "200798175",
-      "item_sequence_number": "216822",
-      "primary_key": "200798175-216822",
-      "date_filed": "2007-04-05T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "this notice includes violations for the areas noted.",
-      "nov_item_description": "complaint inspection at unit 2f regarding general maintenance items:",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-02T05:06:46.000",
+      "data_as_of": "2026-06-03T05:04:15.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -135,306 +97,6 @@
   ],
   "eviction_notices": [],
   "rent_board_petitions": [
-    {
-      "petition_id": "T220408",
-      "date_filed": "2022-04-01T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
-    {
-      "petition_id": "T220457",
-      "date_filed": "2022-04-14T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
-    {
-      "petition_id": "T221585",
-      "date_filed": "2022-12-29T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
-    {
-      "petition_id": "T240032",
-      "date_filed": "2024-01-11T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
-    {
-      "petition_id": "T240738",
-      "date_filed": "2024-07-08T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
-    {
-      "petition_id": "T251259",
-      "date_filed": "2025-09-22T00:00:00.000",
-      "filing_party": "tenant",
-      "ground_landlord_capital_improvement": false,
-      "ground_landlord_comparable_rents": false,
-      "ground_landlord_extension_of_time_for_capital_improvments": false,
-      "ground_landlord_intent_to_withdraw_ellis": false,
-      "ground_landlord_other": false,
-      "ground_landlord_operating_maintenance": false,
-      "ground_landlord_substantial_rehabilitation": false,
-      "ground_landlord_costa_hawkins": false,
-      "ground_landlord_exemption": false,
-      "ground_landlord_rules_and_regulations_section_1_21": false,
-      "ground_landlord_rules_and_regulations_section_6_14": false,
-      "ground_landlord_rules_and_regulations_section_6_15": false,
-      "ground_landlord_sro_hotel_vistor_policy_petition": false,
-      "ground_landlord_utility_passthrough_petition": false,
-      "ground_landlord_owner_move_in_disability_determination": false,
-      "ground_landlord_utility_passthrough_worksheet": false,
-      "ground_landlord_non_comparable_rents": false,
-      "ground_tenant_decrease_in_housing_services": true,
-      "ground_tenant_failure_to_repair_and_maintain": false,
-      "ground_tenant_passthrough_challenge": false,
-      "ground_tenant_summary_petition": false,
-      "ground_tenant_unlawful_rent_increase": false,
-      "ground_tenant_wrongful_eviction_report": false,
-      "ground_tenant_section_8_tenancy": false,
-      "ground_tenant_sro_hotel_vistor_policy_petition": false,
-      "ground_tenant_rules_and_regulations_section_6_15": false,
-      "ground_tenant_other": false,
-      "ground_tenant_utility_passthrough_hardship": false,
-      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
-      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
-      "ground_tenant_wrongful_severance_of_housing_service": false,
-      "ground_alternative_dispute_resolution": false,
-      "address": "1000 Block Of Chestnut Street",
-      "petition_source_zipcode": "94109",
-      "supervisor_district": "2",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "shape": {
-        "type": "Point",
-        "coordinates": [
-          -122.420650667,
-          37.802864996
-        ]
-      },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
-    },
     {
       "petition_id": "T040944",
       "date_filed": "2004-08-02T00:00:00.000",
@@ -482,8 +144,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L050596",
@@ -532,8 +194,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L140266",
@@ -582,8 +244,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L140268",
@@ -632,8 +294,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L161422",
@@ -682,8 +344,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L171964",
@@ -732,8 +394,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L180982",
@@ -782,8 +444,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L191560",
@@ -832,8 +494,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L200831",
@@ -882,8 +544,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L210534",
@@ -932,8 +594,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L210865",
@@ -983,8 +645,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L230219",
@@ -1033,8 +695,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L231262",
@@ -1083,8 +745,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L240596",
@@ -1133,8 +795,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L250412",
@@ -1183,8 +845,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L250660",
@@ -1233,8 +895,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     },
     {
       "petition_id": "L260512",
@@ -1283,8 +945,308 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-06-02T00:00:00.000",
-      "data_loaded_at": "2026-06-02T05:25:04.000"
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T220408",
+      "date_filed": "2022-04-01T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T220457",
+      "date_filed": "2022-04-14T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T221585",
+      "date_filed": "2022-12-29T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T240032",
+      "date_filed": "2024-01-11T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T240738",
+      "date_filed": "2024-07-08T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
+    },
+    {
+      "petition_id": "T251259",
+      "date_filed": "2025-09-22T00:00:00.000",
+      "filing_party": "tenant",
+      "ground_landlord_capital_improvement": false,
+      "ground_landlord_comparable_rents": false,
+      "ground_landlord_extension_of_time_for_capital_improvments": false,
+      "ground_landlord_intent_to_withdraw_ellis": false,
+      "ground_landlord_other": false,
+      "ground_landlord_operating_maintenance": false,
+      "ground_landlord_substantial_rehabilitation": false,
+      "ground_landlord_costa_hawkins": false,
+      "ground_landlord_exemption": false,
+      "ground_landlord_rules_and_regulations_section_1_21": false,
+      "ground_landlord_rules_and_regulations_section_6_14": false,
+      "ground_landlord_rules_and_regulations_section_6_15": false,
+      "ground_landlord_sro_hotel_vistor_policy_petition": false,
+      "ground_landlord_utility_passthrough_petition": false,
+      "ground_landlord_owner_move_in_disability_determination": false,
+      "ground_landlord_utility_passthrough_worksheet": false,
+      "ground_landlord_non_comparable_rents": false,
+      "ground_tenant_decrease_in_housing_services": true,
+      "ground_tenant_failure_to_repair_and_maintain": false,
+      "ground_tenant_passthrough_challenge": false,
+      "ground_tenant_summary_petition": false,
+      "ground_tenant_unlawful_rent_increase": false,
+      "ground_tenant_wrongful_eviction_report": false,
+      "ground_tenant_section_8_tenancy": false,
+      "ground_tenant_sro_hotel_vistor_policy_petition": false,
+      "ground_tenant_rules_and_regulations_section_6_15": false,
+      "ground_tenant_other": false,
+      "ground_tenant_utility_passthrough_hardship": false,
+      "ground_tenant_water_revenue_bond_passthrough_hardship": false,
+      "ground_tenant_capital_improvement_passthrough_hardship_petition": false,
+      "ground_tenant_wrongful_severance_of_housing_service": false,
+      "ground_alternative_dispute_resolution": false,
+      "address": "1000 Block Of Chestnut Street",
+      "petition_source_zipcode": "94109",
+      "supervisor_district": "2",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-06-03T00:00:00.000",
+      "data_loaded_at": "2026-06-03T05:24:13.000"
     }
   ],
   "three_eleven_cases": [],
@@ -1580,7 +1542,7 @@
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0452,
+        "raw_value": 0.0791,
         "percentile": 75,
         "weighted": 22.5
       },
@@ -1606,12 +1568,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 3,
+      "dbi_complaints": 2,
       "eviction_notices": 0,
       "rent_board_petitions": 23,
       "three_eleven_cases": 0,
       "building_permits": 6
     },
-    "scored_at": "2026-06-03T10:51:10.227Z"
+    "scored_at": "2026-06-04T09:50:49.944Z"
   }
 }
