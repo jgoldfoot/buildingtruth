@@ -17,84 +17,7 @@
       "units": null
     }
   ],
-  "dbi_complaints": [
-    {
-      "complaint_number": "201587342",
-      "item_sequence_number": "825546",
-      "primary_key": "201587342-825546",
-      "date_filed": "2015-12-21T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "fire section",
-      "item": "maintain fire escape drop ladder in working condition (sec 908 hc)",
-      "nov_item_description": "on the east side of the building. note: on reinspection day, property manager, owner or the owner's agent needs to demonstrate the workability of the fire escape ladders. provide a written and signed report from a qualified service company or contractor stating that all parts and cables have been tested and are functional or you are required to lower the ladder on re-inspection day to verify its proper full release. all fire escape drop ladders must be maintained and serviced annually, particularly the cable and all moving parts. lubricate and drop the ladder at least once a year.",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-05T05:04:03.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
-      "complaint_number": "202315970",
-      "item_sequence_number": "1384526",
-      "primary_key": "202315970-1384526",
-      "date_filed": "2023-11-14T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "provide utility shutoff tool and post devices diagram (712 sfhc)",
-      "nov_item_description": "provide shutoff tool that can be used to shutoff the gas. provide shutoff tool that can be used to shutoff the gas.",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-05T05:04:03.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    }
-  ],
+  "dbi_complaints": [],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
@@ -386,13 +309,13 @@
     }
   ],
   "score": {
-    "composite_score": 25,
+    "composite_score": 10,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0791,
-        "percentile": 50,
-        "weighted": 15
+        "raw_value": 0,
+        "percentile": 0,
+        "weighted": 0
       },
       "eviction_rate": {
         "raw_value": 0,
@@ -416,12 +339,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 2,
+      "dbi_complaints": 0,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 6
     },
-    "scored_at": "2026-06-06T08:29:19.641Z"
+    "scored_at": "2026-06-07T08:50:30.832Z"
   }
 }
