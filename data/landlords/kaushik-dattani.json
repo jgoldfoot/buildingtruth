@@ -23,271 +23,7 @@
       "units": 13
     }
   ],
-  "dbi_complaints": [
-    {
-      "complaint_number": "200115035",
-      "item_sequence_number": "70030",
-      "primary_key": "200115035-70030",
-      "date_filed": "2001-03-06T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "provide adequate number of garbage receptacles (1304 hc)",
-      "nov_item_description": "provide additional garbage receptacles to building.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201319651",
-      "item_sequence_number": "565006",
-      "primary_key": "201319651-565006",
-      "date_filed": "2013-08-23T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "interior surfaces section",
-      "item": "repair damaged ceilings (1001b,h,o hc)",
-      "nov_item_description": "repair/patch, texture and paint damaged ceiling and wall areas and remove/cover peeling paint in an approved manner at bathroom ceiling, interior hallway, entry staircase and kitchen.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201447244",
-      "item_sequence_number": "596148",
-      "primary_key": "201447244-596148",
-      "date_filed": "2014-01-15T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "window sash frame (1001(h),708 hc) nuisance (401(2) (1001(d) hc",
-      "nov_item_description": "unit #3305: for the window located in the bathroom, the window sash frame shall operate smoothly. on the date of inspection, the window opened properly but would not close with ease.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "202313733",
-      "item_sequence_number": "1382207",
-      "primary_key": "202313733-1382207",
-      "date_filed": "2023-09-22T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "provide for compliance affidavit (sfhc 604 )",
-      "nov_item_description": "complete the 604 affidavit provided for self certification for structural maintenance. provide to inspector at the time of reinspection, send to inspector yee at 49 south van ness avenue, san francisco, ca 94103, fax to (628) 652-3709 or email the forms to dennis.yee@sfgov.org.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201620383",
-      "primary_key": "201620383",
-      "date_filed": "2016-05-27T00:00:00.000",
-      "block": "3616",
-      "lot": "009",
-      "street_number": "3224",
-      "street_name": "22nd",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Building Inspection Division",
-      "assigned_division": "Building Inspection Division",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "code_violation_desc": "A portion of foundation has been dislodged and has compromised the structural foundation support for the rear of the building. During the removal/demolition of a first floor concrete wall at adjacent building  at 2578/2598 Mission St. the foundation of your building at rear wall has been damaged and dislodged from its location. This has resulted in the foundation support for the building being compromised. Siding is also in poor condition at rear and side walls.  $52 Monthly monitoring fee.",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.419552248,
-          37.75552738
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "200115035",
-      "item_sequence_number": "70028",
-      "primary_key": "200115035-70028",
-      "date_filed": "2001-03-06T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "plumbing and electrical section",
-      "item": "repair deteriorated drainage pipes at exterior (1001f hc)",
-      "nov_item_description": "repair/replace clogged floor waste drain by rear stairway's",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201319651",
-      "item_sequence_number": "565005",
-      "primary_key": "201319651-565005",
-      "date_filed": "2013-08-23T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "interior surfaces section",
-      "item": "eliminate mold/mildew on ceiling (1301,1001b(13),1306 hc)",
-      "nov_item_description": "eliminate mold/mildew formation from bathroom ceiling.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-06-12T05:03:10.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    }
-  ],
+  "dbi_complaints": [],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
@@ -418,42 +154,42 @@
     }
   ],
   "score": {
-    "composite_score": 80,
+    "composite_score": 90,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.037,
+        "raw_value": 0,
         "percentile": 100,
         "weighted": 30
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 18.75
+        "percentile": 100,
+        "weighted": 25
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 15
+        "percentile": 100,
+        "weighted": 20
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 11.25
+        "percentile": 100,
+        "weighted": 15
       },
       "permit_investment": {
         "raw_value": 0.3191,
-        "percentile": 50,
-        "weighted": 5
+        "percentile": 0,
+        "weighted": 0
       }
     },
     "record_counts": {
-      "dbi_complaints": 7,
+      "dbi_complaints": 0,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 3
     },
-    "scored_at": "2026-06-13T08:52:47.756Z"
+    "scored_at": "2026-06-14T09:27:05.125Z"
   }
 }
