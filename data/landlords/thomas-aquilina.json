@@ -14,6 +14,44 @@
   "dbi_complaints": [
     {
       "complaint_number": "200008708",
+      "item_sequence_number": "59341",
+      "primary_key": "200008708-59341",
+      "date_filed": "2000-09-01T00:00:00.000",
+      "block": "6524",
+      "lot": "019A",
+      "street_number": "3150",
+      "street_name": "26th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "smoke detection section",
+      "item": "repair smoke detector (908 911 hc)",
+      "nov_item_description": "repair/replace damaged/inoperable smoke detector at hallway area",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413116536,
+          37.749533128
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-07-09T05:08:08.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200008708",
       "item_sequence_number": "59354",
       "primary_key": "200008708-59354",
       "date_filed": "2000-09-01T00:00:00.000",
@@ -39,7 +77,45 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-07-08T05:07:23.000",
+      "data_as_of": "2026-07-09T05:08:08.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200008708",
+      "item_sequence_number": "59342",
+      "primary_key": "200008708-59342",
+      "date_filed": "2000-09-01T00:00:00.000",
+      "block": "6524",
+      "lot": "019A",
+      "street_number": "3150",
+      "street_name": "26th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "sanitation section",
+      "item": "eliminate cockroach infestation (1001b, 1306 hc)",
+      "nov_item_description": "eliminate roach infestation to unit. provide proof of professional pest control service",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413116536,
+          37.749533128
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-07-09T05:08:08.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -56,13 +132,13 @@
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": 25,
+    "composite_score": 17.5,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.25,
-        "percentile": 25,
-        "weighted": 7.5
+        "raw_value": 0.75,
+        "percentile": 0,
+        "weighted": 0
       },
       "eviction_rate": {
         "raw_value": 0,
@@ -86,12 +162,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 1,
+      "dbi_complaints": 3,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-07-09T09:30:27.679Z"
+    "scored_at": "2026-07-10T09:26:06.231Z"
   }
 }

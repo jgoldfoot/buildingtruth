@@ -19,119 +19,6 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "199706659",
-      "item_sequence_number": "9746",
-      "primary_key": "199706659-9746",
-      "date_filed": "1997-06-13T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "other section",
-      "item": "provide shutoff tool for gas utility shutoff (712 hc)",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-08T05:07:23.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
-      "complaint_number": "199706659",
-      "item_sequence_number": "9745",
-      "primary_key": "199706659-9745",
-      "date_filed": "1997-06-13T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "repair roof deck (1001(b)(13) hc)",
-      "nov_item_description": "wood rot in several places",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-08T05:07:23.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
-      "complaint_number": "202315970",
-      "item_sequence_number": "1384523",
-      "primary_key": "202315970-1384523",
-      "date_filed": "2023-11-14T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "self certified smoke alarms and carbon monoxide alarms affidavit (420 sfbc)",
-      "nov_item_description": "provide self-certification of the numbers of smoke and carbon monoxide detectors installed in the building. a blank affidavit form, to be completed and returned, is attached to this notice of violation. until affidavit is received, case cannot be abated. see attached.",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-08T05:07:23.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
       "complaint_number": "201587342",
       "item_sequence_number": "825546",
       "primary_key": "201587342-825546",
@@ -158,7 +45,121 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-07-08T05:07:23.000",
+      "data_as_of": "2026-07-09T05:08:08.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "202315970",
+      "item_sequence_number": "1384528",
+      "primary_key": "202315970-1384528",
+      "date_filed": "2023-11-14T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "bid, eid & pid permits (301 sfhc)",
+      "nov_item_description": "repairs cited in this notice may require a building, plumbing and /or electrical permit. it is the responsibility of the owner to obtain (or have others obtain) any required permits before beginning work that requires permit(s). this case cannot be abated until the housing inspector makes a final inspection to verify that all violations have been corrected and all required permits have been obtained and finalized. on reinspection day, present to the housing inspector the job card, plans and permits indicating that all work under building, plumbing and electrical permits is complete. prior to reinspection by housing inspector, call building, plumbing and electrical inspectors for required inspections.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-07-09T05:08:08.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "202315970",
+      "item_sequence_number": "1384521",
+      "primary_key": "202315970-1384521",
+      "date_filed": "2023-11-14T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "1000 chestnut street and all common areas.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-07-09T05:08:08.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "201587342",
+      "item_sequence_number": "825547",
+      "primary_key": "201587342-825547",
+      "date_filed": "2015-12-21T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "smoke detection section",
+      "item": "provide a minimum one carbon monixide alarm/detector per dwelling unit/apartment(907.2.11 (sfbc)",
+      "nov_item_description": "provide a affidavit-self certification for the smoke detector & carbon monoxide alarms test smoke detectors on a regular basis and replace batteries annually to maintain a working and functional device. advise occupants not to disconnect the batteries or remove the units inside the apartments or from public areas.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-07-09T05:08:08.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -170,7 +171,1413 @@
       ":@computed_region_rxqg_mtj9": "1"
     }
   ],
-  "eviction_notices": [],
+  "eviction_notices": [
+    {
+      "eviction_id": "M010787",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2001-04-25T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M020551",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2002-05-03T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": true,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M020568",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2002-05-07T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": true,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M140417",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2014-02-28T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M162827",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-09-09T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M160914",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-03-14T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M152675",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103",
+      "file_date": "2015-09-29T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M160618",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-02-18T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M162298",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-07-11T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M141387",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2014-06-23T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M162829",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-09-09T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M170114",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2017-01-26T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M161259",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-04-13T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M141372",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2014-06-18T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M161546",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-05-09T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M161327",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-04-14T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M161248",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2016-04-11T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M041656",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2004-09-08T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M040916",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2004-06-04T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": true,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "constraints_date": "2007-06-02T00:00:00.000",
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M192770",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2019-10-11T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M051187",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2005-06-22T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M051298",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2005-07-12T00:00:00.000",
+      "non_payment": false,
+      "breach": true,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M130768",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2013-04-29T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M190933",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2019-05-02T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M171632",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2017-06-23T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": true,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": false,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    },
+    {
+      "eviction_id": "M070628",
+      "address": "1000 Block Of Chestnut Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109",
+      "file_date": "2007-04-26T00:00:00.000",
+      "non_payment": false,
+      "breach": false,
+      "nuisance": false,
+      "illegal_use": false,
+      "failure_to_sign_renewal": false,
+      "access_denial": false,
+      "unapproved_subtenant": false,
+      "owner_move_in": false,
+      "demolition": false,
+      "capital_improvement": true,
+      "substantial_rehab": false,
+      "ellis_act_withdrawal": false,
+      "condo_conversion": false,
+      "roommate_same_unit": false,
+      "other_cause": false,
+      "late_payments": false,
+      "lead_remediation": false,
+      "development": false,
+      "good_samaritan_ends": false,
+      "supervisor_district": "2",
+      "neighborhood": "Russian Hill",
+      "client_location": {
+        "latitude": "37.802864996",
+        "longitude": "-122.420650667",
+        "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+      },
+      "shape": {
+        "type": "Point",
+        "coordinates": [
+          -122.420650667,
+          37.802864996
+        ]
+      },
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:22:57.000",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_fyvs_ahh9": "32",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_6pnf_4xz7": "1",
+      ":@computed_region_jwn9_ihcz": "107"
+    }
+  ],
   "rent_board_petitions": [
     {
       "petition_id": "T220408",
@@ -219,8 +1626,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T220457",
@@ -269,8 +1676,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T221585",
@@ -319,8 +1726,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T240032",
@@ -369,8 +1776,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T240738",
@@ -419,8 +1826,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T251259",
@@ -469,8 +1876,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L161422",
@@ -519,8 +1926,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L171964",
@@ -569,8 +1976,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L180982",
@@ -619,8 +2026,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L191560",
@@ -669,8 +2076,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L200831",
@@ -719,8 +2126,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L210534",
@@ -769,8 +2176,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L210865",
@@ -820,8 +2227,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L230219",
@@ -870,8 +2277,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L231262",
@@ -920,8 +2327,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L240596",
@@ -970,8 +2377,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L250412",
@@ -1020,8 +2427,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L250660",
@@ -1070,8 +2477,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L260512",
@@ -1120,8 +2527,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L050596",
@@ -1170,8 +2577,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L140266",
@@ -1220,8 +2627,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "L140268",
@@ -1270,8 +2677,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     },
     {
       "petition_id": "T040944",
@@ -1320,8 +2727,8 @@
           37.802864996
         ]
       },
-      "data_as_of": "2026-07-08T00:00:00.000",
-      "data_loaded_at": "2026-07-08T05:23:47.000"
+      "data_as_of": "2026-07-09T00:00:00.000",
+      "data_loaded_at": "2026-07-09T05:23:12.000"
     }
   ],
   "three_eleven_cases": [],
@@ -1613,16 +3020,16 @@
     }
   ],
   "score": {
-    "composite_score": 40,
+    "composite_score": 17.5,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0331,
-        "percentile": 100,
-        "weighted": 30
+        "raw_value": 0.1583,
+        "percentile": 25,
+        "weighted": 7.5
       },
       "eviction_rate": {
-        "raw_value": 0,
+        "raw_value": 0.7854,
         "percentile": 0,
         "weighted": 0
       },
@@ -1644,11 +3051,11 @@
     },
     "record_counts": {
       "dbi_complaints": 4,
-      "eviction_notices": 0,
+      "eviction_notices": 26,
       "rent_board_petitions": 23,
       "three_eleven_cases": 0,
       "building_permits": 6
     },
-    "scored_at": "2026-07-09T09:30:27.680Z"
+    "scored_at": "2026-07-10T09:26:06.233Z"
   }
 }
