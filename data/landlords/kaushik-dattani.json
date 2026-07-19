@@ -23,234 +23,7 @@
       "units": 13
     }
   ],
-  "dbi_complaints": [
-    {
-      "complaint_number": "201447244",
-      "item_sequence_number": "596145",
-      "primary_key": "201447244-596145",
-      "date_filed": "2014-01-15T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "other section",
-      "item": "inspector comments",
-      "nov_item_description": "it is the property owner's responsibility to be present or direct his/her representative to attend, the reinspection as scheduled on this notice of violation for the purpose of providing entry to the inspector of those areas not accessed during the initial inspection as specified, and/or to provide access to all areas cited within this notice. if the property owner cannot attend the scheduled reinspection (as specified on this notice) it is his/her responsibility to secure a different inspection date and time with the inspector, and provide all tenants with notification as required by california civil code section 1954 (san francisco housing code section 303(b), if any dwellings, apartment units or guest rooms are to be accessed during the reinspection. -please provide access to all common areas of building on re-inspection date in order to perform a complete routine inspection of the property.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201319651",
-      "item_sequence_number": "565009",
-      "primary_key": "201319651-565009",
-      "date_filed": "2013-08-23T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "other section",
-      "item": "provide a permanent heating source capable of providing required heat to each occupied habitable room and capable to maintaining a min. room temperature of 68 degrees f. (20 degrees c.). (701c hc)",
-      "nov_item_description": "repair/restore or replace inoperable heater at unit. a gas wall heater was noted at time of inspection and it was inoperable. *if a new heater is installed, a proper mechanical/plumbing or electrical permit must be provided in order to abate this case.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "200115035",
-      "item_sequence_number": "70030",
-      "primary_key": "200115035-70030",
-      "date_filed": "2001-03-06T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "provide adequate number of garbage receptacles (1304 hc)",
-      "nov_item_description": "provide additional garbage receptacles to building.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201193830",
-      "primary_key": "201193830",
-      "date_filed": "2011-02-07T00:00:00.000",
-      "block": "3596",
-      "lot": "103",
-      "street_number": "3465",
-      "street_name": "19th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Building Inspection Division",
-      "assigned_division": "Code Enforcement Section",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "additional_work_beyond_permit": "Y",
-      "code_violation_desc": "New aluminum windows installed at front corner ground floor of 1907 built building. SFBC Section 106.4.7",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420772194,
-          37.760038838
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201319651",
-      "item_sequence_number": "565006",
-      "primary_key": "201319651-565006",
-      "date_filed": "2013-08-23T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "interior surfaces section",
-      "item": "repair damaged ceilings (1001b,h,o hc)",
-      "nov_item_description": "repair/patch, texture and paint damaged ceiling and wall areas and remove/cover peeling paint in an approved manner at bathroom ceiling, interior hallway, entry staircase and kitchen.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "201447244",
-      "item_sequence_number": "596148",
-      "primary_key": "201447244-596148",
-      "date_filed": "2014-01-15T00:00:00.000",
-      "block": "3611",
-      "lot": "001",
-      "street_number": "3305",
-      "street_name": "20th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "window sash frame (1001(h),708 hc) nuisance (401(2) (1001(d) hc",
-      "nov_item_description": "unit #3305: for the window located in the bathroom, the window sash frame shall operate smoothly. on the date of inspection, the window opened properly but would not close with ease.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.415033066,
-          37.758773373
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-07-17T05:03:20.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    }
-  ],
+  "dbi_complaints": [],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
@@ -381,42 +154,42 @@
     }
   ],
   "score": {
-    "composite_score": 72.5,
+    "composite_score": 90,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0389,
-        "percentile": 75,
-        "weighted": 22.5
+        "raw_value": 0,
+        "percentile": 100,
+        "weighted": 30
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 18.75
+        "percentile": 100,
+        "weighted": 25
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 15
+        "percentile": 100,
+        "weighted": 20
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 75,
-        "weighted": 11.25
+        "percentile": 100,
+        "weighted": 15
       },
       "permit_investment": {
         "raw_value": 0.3191,
-        "percentile": 50,
-        "weighted": 5
+        "percentile": 0,
+        "weighted": 0
       }
     },
     "record_counts": {
-      "dbi_complaints": 6,
+      "dbi_complaints": 0,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 3
     },
-    "scored_at": "2026-07-18T07:41:37.591Z"
+    "scored_at": "2026-07-19T08:08:50.367Z"
   }
 }
