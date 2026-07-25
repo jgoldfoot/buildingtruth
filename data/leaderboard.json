@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:16:55.690Z",
+  "generated_at": "2026-07-25T08:00:00.245Z",
   "total_landlords": 28,
   "scored_landlords": 3,
   "weights": {
@@ -24,12 +24,12 @@
           "weighted": 0
         },
         "eviction_rate": {
-          "raw_value": 0,
+          "raw_value": 0.7854,
           "percentile": 0,
           "weighted": 0
         },
         "rent_board_petitions": {
-          "raw_value": 2.3,
+          "raw_value": 0,
           "percentile": 0,
           "weighted": 0
         },
@@ -46,8 +46,8 @@
       },
       "record_counts": {
         "dbi_complaints": 0,
-        "eviction_notices": 0,
-        "rent_board_petitions": 23,
+        "eviction_notices": 26,
+        "rent_board_petitions": 0,
         "three_eleven_cases": 0,
         "building_permits": 6
       }
