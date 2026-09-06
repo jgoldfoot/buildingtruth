@@ -13,10 +13,10 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59356",
-      "primary_key": "200009395-59356",
-      "date_filed": "2000-09-22T00:00:00.000",
+      "complaint_number": "200008708",
+      "item_sequence_number": "59337",
+      "primary_key": "200008708-59337",
+      "date_filed": "2000-09-01T00:00:00.000",
       "block": "6524",
       "lot": "019A",
       "street_number": "3150",
@@ -25,9 +25,9 @@
       "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "remove rubbish or trash (1306,1307 hc)",
-      "nov_item_description": "remove all garbage and trash throughout rear yard and rear stairways",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "3154 26th",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -39,7 +39,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-09-04T05:03:12.000",
+      "data_as_of": "2026-09-05T05:02:42.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -51,21 +51,21 @@
       ":@computed_region_rxqg_mtj9": "7"
     },
     {
-      "complaint_number": "202200255",
-      "item_sequence_number": "1368808",
-      "primary_key": "202200255-1368808",
-      "date_filed": "2022-12-15T00:00:00.000",
+      "complaint_number": "200009395",
+      "item_sequence_number": "59358",
+      "primary_key": "200009395-59358",
+      "date_filed": "2000-09-22T00:00:00.000",
       "block": "6524",
       "lot": "019A",
       "street_number": "3150",
       "street_name": "26th",
       "street_suffix": "St",
-      "status": "active",
+      "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "inspectors comment",
-      "nov_item_description": "no violations observed at the time of inspection.",
+      "nov_category_description": "fire section",
+      "item": "provide fire extinguisher type 2a 10bc or equivalent.(905, 1001(n)hc)",
+      "nov_item_description": "provide fire extinguishers with proper date tags at rear exterior stairways, all levels",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -77,7 +77,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-09-04T05:03:12.000",
+      "data_as_of": "2026-09-05T05:02:42.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -94,13 +94,13 @@
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": 47.5,
+    "composite_score": 17.5,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0337,
-        "percentile": 100,
-        "weighted": 30
+        "raw_value": 0.5,
+        "percentile": 0,
+        "weighted": 0
       },
       "eviction_rate": {
         "raw_value": 0,
@@ -130,6 +130,6 @@
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-09-05T09:51:42.876Z"
+    "scored_at": "2026-09-06T10:09:02.018Z"
   }
 }
