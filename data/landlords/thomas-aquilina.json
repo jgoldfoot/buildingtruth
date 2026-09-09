@@ -14,82 +14,6 @@
   "dbi_complaints": [
     {
       "complaint_number": "202200255",
-      "item_sequence_number": "1368809",
-      "primary_key": "202200255-1368809",
-      "date_filed": "2022-12-15T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "submit section 604 compliance affidavit (604 hc)",
-      "nov_item_description": "a section 604 compliance affidavit is now due for this property. have an appropriately licensed professional inspect those exterior building components exposed to the elements to insure they are structurally sound. submit the completed affidavit to the housing inspector at stephen.mungovan@sfgov.org or the housing inspection division of the department of building inspection. a section 604 affidavit has been included in this mailing.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116536,
-          37.749533128
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-09-07T05:04:24.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59356",
-      "primary_key": "200009395-59356",
-      "date_filed": "2000-09-22T00:00:00.000",
-      "block": "6524",
-      "lot": "019A",
-      "street_number": "3150",
-      "street_name": "26th",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "remove rubbish or trash (1306,1307 hc)",
-      "nov_item_description": "remove all garbage and trash throughout rear yard and rear stairways",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.413116536,
-          37.749533128
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-09-07T05:04:24.000",
-      ":@computed_region_yftq_j783": "2",
-      ":@computed_region_jx4q_fizf": "7",
-      ":@computed_region_ajp5_b2md": "20",
-      ":@computed_region_bh8s_q3mv": "28859",
-      ":@computed_region_jwn9_ihcz": "53",
-      ":@computed_region_6qbp_sg9q": "53",
-      ":@computed_region_qgnn_b9vv": "3",
-      ":@computed_region_26cr_cadq": "2",
-      ":@computed_region_rxqg_mtj9": "7"
-    },
-    {
-      "complaint_number": "202200255",
       "item_sequence_number": "1368808",
       "primary_key": "202200255-1368808",
       "date_filed": "2022-12-15T00:00:00.000",
@@ -115,7 +39,83 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-09-07T05:04:24.000",
+      "data_as_of": "2026-09-08T05:06:37.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200009395",
+      "item_sequence_number": "59355",
+      "primary_key": "200009395-59355",
+      "date_filed": "2000-09-22T00:00:00.000",
+      "block": "6524",
+      "lot": "019A",
+      "street_number": "3150",
+      "street_name": "26th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "sanitation section",
+      "item": "remove rubbish or trash at garbage area (1304,1306,1001b hc)",
+      "nov_item_description": "remove all excess garbage and trash at all garbage areas",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413116536,
+          37.749533128
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-09-08T05:06:37.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200008708",
+      "item_sequence_number": "59341",
+      "primary_key": "200008708-59341",
+      "date_filed": "2000-09-01T00:00:00.000",
+      "block": "6524",
+      "lot": "019A",
+      "street_number": "3150",
+      "street_name": "26th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "smoke detection section",
+      "item": "repair smoke detector (908 911 hc)",
+      "nov_item_description": "repair/replace damaged/inoperable smoke detector at hallway area",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413116536,
+          37.749533128
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-09-08T05:06:37.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -136,7 +136,7 @@
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0562,
+        "raw_value": 0.0449,
         "percentile": 75,
         "weighted": 22.5
       },
@@ -168,6 +168,6 @@
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-09-08T10:27:51.712Z"
+    "scored_at": "2026-09-09T10:39:12.607Z"
   }
 }
