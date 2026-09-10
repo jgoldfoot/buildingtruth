@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:39:12.599Z",
+  "generated_at": "2026-09-10T10:26:51.602Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -19,7 +19,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0602,
+          "raw_value": 0.1108,
           "percentile": 50,
           "weighted": 15
         },
@@ -45,7 +45,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 5,
+        "dbi_complaints": 3,
         "eviction_notices": 26,
         "rent_board_petitions": 23,
         "three_eleven_cases": 0,
@@ -61,7 +61,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.2106,
+          "raw_value": 0.191,
           "percentile": 0,
           "weighted": 0
         },
@@ -87,7 +87,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 60,
+        "dbi_complaints": 56,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -103,7 +103,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0449,
+          "raw_value": 0.0673,
           "percentile": 75,
           "weighted": 22.5
         },
@@ -129,7 +129,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 3,
+        "dbi_complaints": 5,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -145,7 +145,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0874,
+          "raw_value": 0.1456,
           "percentile": 25,
           "weighted": 7.5
         },
@@ -171,7 +171,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 9,
+        "dbi_complaints": 15,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -187,7 +187,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0385,
+          "raw_value": 0.0401,
           "percentile": 100,
           "weighted": 30
         },
@@ -213,7 +213,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 8,
+        "dbi_complaints": 10,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
