@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:26:51.602Z",
+  "generated_at": "2026-09-11T10:29:10.138Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -15,13 +15,13 @@
       "name": "Trinity Properties",
       "slug": "trinity-properties",
       "total_units": 2,
-      "composite_score": 25,
+      "composite_score": 10,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1108,
-          "percentile": 50,
-          "weighted": 15
+          "raw_value": 0.2374,
+          "percentile": 0,
+          "weighted": 0
         },
         "eviction_rate": {
           "raw_value": 0.7854,
@@ -45,53 +45,11 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 3,
+        "dbi_complaints": 5,
         "eviction_notices": 26,
         "rent_board_petitions": 23,
         "three_eleven_cases": 0,
         "building_permits": 6
-      }
-    },
-    {
-      "id": "robert-imhoff",
-      "name": "Robert Imhoff / Landmark Realty",
-      "slug": "robert-imhoff",
-      "total_units": 3,
-      "composite_score": 37.5,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.191,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 50,
-          "weighted": 12.5
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 50,
-          "weighted": 10
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 50,
-          "weighted": 7.5
-        },
-        "permit_investment": {
-          "raw_value": 1.1611,
-          "percentile": 75,
-          "weighted": 7.5
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 56,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 7
       }
     },
     {
@@ -103,7 +61,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0673,
+          "raw_value": 0.0561,
           "percentile": 75,
           "weighted": 22.5
         },
@@ -129,7 +87,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 5,
+        "dbi_complaints": 4,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -137,17 +95,59 @@
       }
     },
     {
+      "id": "robert-imhoff",
+      "name": "Robert Imhoff / Landmark Realty",
+      "slug": "robert-imhoff",
+      "total_units": 3,
+      "composite_score": 45,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.1611,
+          "percentile": 25,
+          "weighted": 7.5
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 12.5
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 10
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 7.5
+        },
+        "permit_investment": {
+          "raw_value": 1.1611,
+          "percentile": 75,
+          "weighted": 7.5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 41,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 7
+      }
+    },
+    {
       "id": "brian-sam-hunt",
       "name": "Brian & Sam Hunt",
       "slug": "brian-sam-hunt",
       "total_units": 2,
-      "composite_score": 67.5,
+      "composite_score": 75,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1456,
-          "percentile": 25,
-          "weighted": 7.5
+          "raw_value": 0.0874,
+          "percentile": 50,
+          "weighted": 15
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -171,7 +171,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 15,
+        "dbi_complaints": 9,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -187,7 +187,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0401,
+          "raw_value": 0.034,
           "percentile": 100,
           "weighted": 30
         },
@@ -213,7 +213,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 10,
+        "dbi_complaints": 8,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
