@@ -13,21 +13,21 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59355",
-      "primary_key": "200009395-59355",
-      "date_filed": "2000-09-22T00:00:00.000",
+      "complaint_number": "202200255",
+      "item_sequence_number": "1368810",
+      "primary_key": "202200255-1368810",
+      "date_filed": "2022-12-15T00:00:00.000",
       "block": "6524",
       "lot": "019A",
       "street_number": "3150",
       "street_name": "26th",
       "street_suffix": "St",
-      "status": "not active",
+      "status": "active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "remove rubbish or trash at garbage area (1304,1306,1001b hc)",
-      "nov_item_description": "remove all excess garbage and trash at all garbage areas",
+      "nov_category_description": "building section",
+      "item": "submit smoke/carbon compliance affidavit (420.4, 907.2.11 & 3401.6.1 sfbc)",
+      "nov_item_description": "a smoke & carbon monoxide alarm compliance affidavit is due for this property. install the required alarms and submit the required compliance affidavit to the housing inspector at stephen.mungovan@sfgov.org or the housing inspection division of the department of building inspection. a smoke/carbon compliance affidavit has been included in this mailing.",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -39,7 +39,45 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-09-24T05:03:15.000",
+      "data_as_of": "2026-09-25T05:02:46.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "200009395",
+      "item_sequence_number": "59359",
+      "primary_key": "200009395-59359",
+      "date_filed": "2000-09-22T00:00:00.000",
+      "block": "6524",
+      "lot": "019A",
+      "street_number": "3150",
+      "street_name": "26th",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "security requirements section",
+      "item": "provide self-closing devices at exterior doors (706 hc)",
+      "nov_item_description": "provide self closing device to side exterior tradesma's door",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413116536,
+          37.749533128
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-09-25T05:02:46.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -56,13 +94,13 @@
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": 17.5,
+    "composite_score": 40,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.25,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.0337,
+        "percentile": 75,
+        "weighted": 22.5
       },
       "eviction_rate": {
         "raw_value": 0,
@@ -86,12 +124,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 1,
+      "dbi_complaints": 2,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-09-25T10:59:36.090Z"
+    "scored_at": "2026-09-26T10:41:42.684Z"
   }
 }
