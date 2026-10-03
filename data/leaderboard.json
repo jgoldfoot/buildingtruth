@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:46:46.050Z",
+  "generated_at": "2026-10-03T10:59:25.193Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -11,6 +11,48 @@
   },
   "leaderboard": [
     {
+      "id": "trinity-properties",
+      "name": "Trinity Properties",
+      "slug": "trinity-properties",
+      "total_units": 2,
+      "composite_score": 25,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.1424,
+          "percentile": 50,
+          "weighted": 15
+        },
+        "eviction_rate": {
+          "raw_value": 0.7854,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "rent_board_petitions": {
+          "raw_value": 2.3,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 0,
+          "weighted": 0
+        },
+        "permit_investment": {
+          "raw_value": 1.9887,
+          "percentile": 100,
+          "weighted": 10
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 3,
+        "eviction_notices": 26,
+        "rent_board_petitions": 23,
+        "three_eleven_cases": 0,
+        "building_permits": 6
+      }
+    },
+    {
       "id": "robert-imhoff",
       "name": "Robert Imhoff / Landmark Realty",
       "slug": "robert-imhoff",
@@ -19,7 +61,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.2634,
+          "raw_value": 0.1708,
           "percentile": 0,
           "weighted": 0
         },
@@ -45,7 +87,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 79,
+        "dbi_complaints": 50,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -61,7 +103,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0449,
+          "raw_value": 0.0561,
           "percentile": 75,
           "weighted": 22.5
         },
@@ -87,7 +129,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 3,
+        "dbi_complaints": 4,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -95,101 +137,17 @@
       }
     },
     {
-      "id": "trinity-properties",
-      "name": "Trinity Properties",
-      "slug": "trinity-properties",
-      "total_units": 2,
-      "composite_score": 40,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.0378,
-          "percentile": 100,
-          "weighted": 30
-        },
-        "eviction_rate": {
-          "raw_value": 0.7854,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "rent_board_petitions": {
-          "raw_value": 2.3,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 0,
-          "weighted": 0
-        },
-        "permit_investment": {
-          "raw_value": 1.9887,
-          "percentile": 100,
-          "weighted": 10
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 5,
-        "eviction_notices": 26,
-        "rent_board_petitions": 23,
-        "three_eleven_cases": 0,
-        "building_permits": 6
-      }
-    },
-    {
-      "id": "kaushik-dattani",
-      "name": "Kaushik Dattani / Dattani & Company",
-      "slug": "kaushik-dattani",
-      "total_units": 3,
-      "composite_score": 57.5,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.0758,
-          "percentile": 25,
-          "weighted": 7.5
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 18.75
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 15
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 11.25
-        },
-        "permit_investment": {
-          "raw_value": 0.3191,
-          "percentile": 50,
-          "weighted": 5
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 18,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 3
-      }
-    },
-    {
       "id": "brian-sam-hunt",
       "name": "Brian & Sam Hunt",
       "slug": "brian-sam-hunt",
       "total_units": 2,
-      "composite_score": 75,
+      "composite_score": 67.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0582,
-          "percentile": 50,
-          "weighted": 15
+          "raw_value": 0.1456,
+          "percentile": 25,
+          "weighted": 7.5
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -213,11 +171,53 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 6,
+        "dbi_complaints": 15,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
         "building_permits": 0
+      }
+    },
+    {
+      "id": "kaushik-dattani",
+      "name": "Kaushik Dattani / Dattani & Company",
+      "slug": "kaushik-dattani",
+      "total_units": 3,
+      "composite_score": 80,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.0247,
+          "percentile": 100,
+          "weighted": 30
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 18.75
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 15
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 11.25
+        },
+        "permit_investment": {
+          "raw_value": 0.3191,
+          "percentile": 50,
+          "weighted": 5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 7,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 3
       }
     },
     {
