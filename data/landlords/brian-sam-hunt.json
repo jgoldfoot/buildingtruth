@@ -17,34 +17,296 @@
       "units": null
     }
   ],
-  "dbi_complaints": [],
+  "dbi_complaints": [
+    {
+      "complaint_number": "200711356",
+      "item_sequence_number": "229296",
+      "primary_key": "200711356-229296",
+      "date_filed": "2007-07-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "fire section",
+      "item": "provide fire extinguisher type 2a 10bc or equivalent.(905, 1001(n)hc)",
+      "nov_item_description": "minimum one extinguisher is required in public rear stair. **reminder** all fire extinguishers are required to be recharged and serviced annually and date tag must be posted and current.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "201477432",
+      "item_sequence_number": "643966",
+      "primary_key": "201477432-643966",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "repair stairs (1001(b)(13)hc)",
+      "nov_item_description": "on the date of inspection, deteriorated and dry rotted components were noted throughout the front and rear exterior egress staircases. this includes but is not limited to: 1) dry rot at the structural support beams at rear staircase; 2) dry rot/damage at 2nd and 3rd level landings of rear staircase; 3) dry-rot/splintered handrails at the 2nd landing; 4) dry-rot at bracing. note: permit # 201405145755 on file. make sure permits signed off prior to contacting housing inspector for final inspection (1001 hc) this stairway constitutes a life hazard as defined in the san francisco housing code sec.401.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77657",
+      "primary_key": "200119350-77657",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "1964 larkin st.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797344,
+          37.795966982
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77678",
+      "primary_key": "200119350-77678",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "fire section",
+      "item": "repair smoke enclosure door closer (807,707 hc)",
+      "nov_item_description": "for the roof door",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797344,
+          37.795966982
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "200119350",
+      "item_sequence_number": "77685",
+      "primary_key": "200119350-77685",
+      "date_filed": "2001-07-20T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "other section",
+      "item": "inspector comments",
+      "nov_item_description": "access to the storage area will be required at the time of reinspection. owner /agent/contractor must file/ proceed with notification process of exterior paint work through/with the department of building inspection.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797344,
+          37.795966982
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "200564221",
+      "item_sequence_number": "175866",
+      "primary_key": "200564221-175866",
+      "date_filed": "2005-10-26T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "interior surfaces section",
+      "item": "disturbing lead based paint can be extremely dangerous to dwelling occupants and visitors, particularly to young children, pregnant women, pets, and to people performing work on the premises. for interior or exterior paint removal : always wet the surface, contain and properly dispose of leaded paint. if you are unsure whether the paint is leaded, you should test it prior to performing any work. if the paint is found to contain lead, you should consult with an expert about appropriate procedures. proper containment and 3-day notification is required for exterior jobs of more than 10 sq.ft. (sec.3604, sfbc) informational packets are available at (415) 558-6088. you can contact the san francisco childhood lead poisoning prevention program at: (415) 554-8930 for free advice. if you cause lead dust to be created, you could be liable for any illness caused by the dust. ordinance #446-97.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "200711356",
+      "item_sequence_number": "229300",
+      "primary_key": "200711356-229300",
+      "date_filed": "2007-07-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "security requirements section",
+      "item": "reinforce rear parking sliding gate w/expanded steel mesh, or approved equal. (706 hc) with-in 40\" of the rear yard door lock",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "201477401",
+      "item_sequence_number": "642984",
+      "primary_key": "201477401-642984",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "308a.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    },
+    {
+      "complaint_number": "201477432",
+      "item_sequence_number": "645884",
+      "primary_key": "201477432-645884",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "fire section",
+      "item": "remove egress obstruction from rear egress gate (706, 801,1001(l) hc)",
+      "nov_item_description": "on the date of inspection, the rear egress gate (leading to orange alley) listed as \"exit door\" was screwed shut. provide an approved means of egress and working exit with the proper locking mechanism.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-08T05:02:45.000"
+    }
+  ],
   "eviction_notices": [],
   "rent_board_petitions": [],
   "three_eleven_cases": [],
   "building_permits": [],
   "score": {
-    "composite_score": null,
-    "insufficient_data": true,
+    "composite_score": 75,
+    "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.0874,
+        "percentile": 50,
+        "weighted": 15
       },
       "eviction_rate": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 25
       },
       "rent_board_petitions": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 20
       },
       "complaint_density": {
         "raw_value": 0,
-        "percentile": 0,
-        "weighted": 0
+        "percentile": 100,
+        "weighted": 15
       },
       "permit_investment": {
         "raw_value": 0,
@@ -53,12 +315,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 0,
+      "dbi_complaints": 9,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-10-07T12:32:25.849Z"
+    "scored_at": "2026-10-08T12:40:40.084Z"
   }
 }
