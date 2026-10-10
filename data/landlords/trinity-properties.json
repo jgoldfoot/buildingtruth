@@ -20,8 +20,8 @@
   "dbi_complaints": [
     {
       "complaint_number": "201587342",
-      "item_sequence_number": "825545",
-      "primary_key": "201587342-825545",
+      "item_sequence_number": "825550",
+      "primary_key": "201587342-825550",
       "date_filed": "2015-12-21T00:00:00.000",
       "block": "0047",
       "lot": "002B",
@@ -31,9 +31,9 @@
       "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "please provide the department of building inspection(dbi) with a completed compliance affidavit for section 604 of the san francisco housing code (see attached notice & affidavit).",
-      "nov_item_description": "note regarding required compliance of san francisco housing code section 604 for apartment buildings/residential condos (3 or more units) and hotels. \"you are required to comply with section 604 of the san francisco housing code. have the \"\"compliance affidavit\"\" form signed by a general contractor, architect, civil engineer, structural engineer or structural pest control inspector. the affidavit compliance form is due on scheduled reinspection day. \" please disregard if you have already submitted you affidavit as required. to verify dbi receipt of your affidavit you may call or email clerical supervisor bernedette perez at 415 558-6165, or bernadette.perez@sfgov.org",
+      "nov_category_description": "other section",
+      "item": "it is the property owner¿s responsibility to be present or direct his/her representative to attend, the reinspection as scheduled on this notice of violation for the purpose of providing entry to the inspector of those areas cited within this notice.",
+      "nov_item_description": "if the property owner cannot attend the scheduled reinspection (as specified on this notice) it is his/her responsibility to secure a different inspection date and time with the inspector. your cooperation is appreciated.",
       "neighborhoods_analysis_boundaries": "Russian Hill",
       "supervisor_district": "2",
       "zipcode": "94109",
@@ -45,7 +45,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-08T05:02:45.000",
+      "data_as_of": "2026-10-09T05:02:56.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -58,8 +58,8 @@
     },
     {
       "complaint_number": "202315970",
-      "item_sequence_number": "1384523",
-      "primary_key": "202315970-1384523",
+      "item_sequence_number": "1384528",
+      "primary_key": "202315970-1384528",
       "date_filed": "2023-11-14T00:00:00.000",
       "block": "0047",
       "lot": "002B",
@@ -70,8 +70,8 @@
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
       "nov_category_description": "building section",
-      "item": "self certified smoke alarms and carbon monoxide alarms affidavit (420 sfbc)",
-      "nov_item_description": "provide self-certification of the numbers of smoke and carbon monoxide detectors installed in the building. a blank affidavit form, to be completed and returned, is attached to this notice of violation. until affidavit is received, case cannot be abated. see attached.",
+      "item": "bid, eid & pid permits (301 sfhc)",
+      "nov_item_description": "repairs cited in this notice may require a building, plumbing and /or electrical permit. it is the responsibility of the owner to obtain (or have others obtain) any required permits before beginning work that requires permit(s). this case cannot be abated until the housing inspector makes a final inspection to verify that all violations have been corrected and all required permits have been obtained and finalized. on reinspection day, present to the housing inspector the job card, plans and permits indicating that all work under building, plumbing and electrical permits is complete. prior to reinspection by housing inspector, call building, plumbing and electrical inspectors for required inspections.",
       "neighborhoods_analysis_boundaries": "Russian Hill",
       "supervisor_district": "2",
       "zipcode": "94109",
@@ -83,7 +83,118 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-08T05:02:45.000",
+      "data_as_of": "2026-10-09T05:02:56.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "202315970",
+      "item_sequence_number": "1384521",
+      "primary_key": "202315970-1384521",
+      "date_filed": "2023-11-14T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "1000 chestnut street and all common areas.",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-09T05:02:56.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "202287609",
+      "primary_key": "202287609",
+      "date_filed": "2022-02-16T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Plumbing Inspection Division",
+      "assigned_division": "Plumbing Inspection Division",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "code_violation_desc": "No permit to operate the boiler. serial no C94108724, CMC 1022.    Monthly monitoring fee applies.  Code Sec:  SFBC 110A, Table 1A-K",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-09T05:02:56.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "107",
+      ":@computed_region_6qbp_sg9q": "107",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "6",
+      ":@computed_region_rxqg_mtj9": "1"
+    },
+    {
+      "complaint_number": "200798175",
+      "item_sequence_number": "216822",
+      "primary_key": "200798175-216822",
+      "date_filed": "2007-04-05T00:00:00.000",
+      "block": "0047",
+      "lot": "002B",
+      "street_number": "1000",
+      "street_name": "Chestnut",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "building section",
+      "item": "this notice includes violations for the areas noted.",
+      "nov_item_description": "complaint inspection at unit 2f regarding general maintenance items:",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "supervisor_district": "2",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420120564,
+          37.803132826
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-10-09T05:02:56.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -2948,7 +3059,7 @@
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.0791,
+        "raw_value": 0.0903,
         "percentile": 50,
         "weighted": 15
       },
@@ -2974,12 +3085,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 2,
+      "dbi_complaints": 5,
       "eviction_notices": 26,
       "rent_board_petitions": 23,
       "three_eleven_cases": 0,
       "building_permits": 6
     },
-    "scored_at": "2026-10-09T12:28:31.095Z"
+    "scored_at": "2026-10-10T11:46:52.080Z"
   }
 }
