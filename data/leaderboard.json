@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:02:17.459Z",
+  "generated_at": "2026-10-23T10:54:58.465Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -15,13 +15,13 @@
       "name": "Trinity Properties",
       "slug": "trinity-properties",
       "total_units": 2,
-      "composite_score": 25,
+      "composite_score": 32.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.0791,
-          "percentile": 50,
-          "weighted": 15
+          "raw_value": 0.0452,
+          "percentile": 75,
+          "weighted": 22.5
         },
         "eviction_rate": {
           "raw_value": 0.7854,
@@ -45,7 +45,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 2,
+        "dbi_complaints": 3,
         "eviction_notices": 26,
         "rent_board_petitions": 23,
         "three_eleven_cases": 0,
@@ -61,7 +61,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1813,
+          "raw_value": 0.2191,
           "percentile": 0,
           "weighted": 0
         },
@@ -87,7 +87,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 48,
+        "dbi_complaints": 64,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -99,13 +99,13 @@
       "name": "Thomas Aquilina",
       "slug": "thomas-aquilina",
       "total_units": 1,
-      "composite_score": 40,
+      "composite_score": 47.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.045,
-          "percentile": 75,
-          "weighted": 22.5
+          "raw_value": 0.0337,
+          "percentile": 100,
+          "weighted": 30
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -129,11 +129,53 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 3,
+        "dbi_complaints": 2,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
         "building_permits": 0
+      }
+    },
+    {
+      "id": "kaushik-dattani",
+      "name": "Kaushik Dattani / Dattani & Company",
+      "slug": "kaushik-dattani",
+      "total_units": 3,
+      "composite_score": 65,
+      "insufficient_data": false,
+      "signals": {
+        "dbi_violations": {
+          "raw_value": 0.0617,
+          "percentile": 50,
+          "weighted": 15
+        },
+        "eviction_rate": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 18.75
+        },
+        "rent_board_petitions": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 15
+        },
+        "complaint_density": {
+          "raw_value": 0,
+          "percentile": 75,
+          "weighted": 11.25
+        },
+        "permit_investment": {
+          "raw_value": 0.3191,
+          "percentile": 50,
+          "weighted": 5
+        }
+      },
+      "record_counts": {
+        "dbi_complaints": 19,
+        "eviction_notices": 0,
+        "rent_board_petitions": 0,
+        "three_eleven_cases": 0,
+        "building_permits": 3
       }
     },
     {
@@ -145,7 +187,7 @@
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1165,
+          "raw_value": 0.1068,
           "percentile": 25,
           "weighted": 7.5
         },
@@ -171,53 +213,11 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 12,
+        "dbi_complaints": 11,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
         "building_permits": 0
-      }
-    },
-    {
-      "id": "kaushik-dattani",
-      "name": "Kaushik Dattani / Dattani & Company",
-      "slug": "kaushik-dattani",
-      "total_units": 3,
-      "composite_score": 80,
-      "insufficient_data": false,
-      "signals": {
-        "dbi_violations": {
-          "raw_value": 0.0333,
-          "percentile": 100,
-          "weighted": 30
-        },
-        "eviction_rate": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 18.75
-        },
-        "rent_board_petitions": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 15
-        },
-        "complaint_density": {
-          "raw_value": 0,
-          "percentile": 75,
-          "weighted": 11.25
-        },
-        "permit_investment": {
-          "raw_value": 0.3191,
-          "percentile": 50,
-          "weighted": 5
-        }
-      },
-      "record_counts": {
-        "dbi_complaints": 8,
-        "eviction_notices": 0,
-        "rent_board_petitions": 0,
-        "three_eleven_cases": 0,
-        "building_permits": 3
       }
     },
     {
