@@ -13,10 +13,10 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "200009395",
-      "item_sequence_number": "59356",
-      "primary_key": "200009395-59356",
-      "date_filed": "2000-09-22T00:00:00.000",
+      "complaint_number": "200008708",
+      "item_sequence_number": "59354",
+      "primary_key": "200008708-59354",
+      "date_filed": "2000-09-01T00:00:00.000",
       "block": "6524",
       "lot": "019A",
       "street_number": "3150",
@@ -25,9 +25,9 @@
       "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "remove rubbish or trash (1306,1307 hc)",
-      "nov_item_description": "remove all garbage and trash throughout rear yard and rear stairways",
+      "nov_category_description": "interior surfaces section",
+      "item": "paint ceilings & walls1001b,1301 hc)",
+      "nov_item_description": "paint ceiling and walls at main bathroom area",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -39,7 +39,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-23T05:02:34.000",
+      "data_as_of": "2026-10-24T05:04:39.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -51,10 +51,10 @@
       ":@computed_region_rxqg_mtj9": "7"
     },
     {
-      "complaint_number": "200008708",
-      "item_sequence_number": "59342",
-      "primary_key": "200008708-59342",
-      "date_filed": "2000-09-01T00:00:00.000",
+      "complaint_number": "200009395",
+      "item_sequence_number": "59357",
+      "primary_key": "200009395-59357",
+      "date_filed": "2000-09-22T00:00:00.000",
       "block": "6524",
       "lot": "019A",
       "street_number": "3150",
@@ -63,9 +63,9 @@
       "status": "not active",
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "sanitation section",
-      "item": "eliminate cockroach infestation (1001b, 1306 hc)",
-      "nov_item_description": "eliminate roach infestation to unit. provide proof of professional pest control service",
+      "nov_category_description": "fire section",
+      "item": "permanently remove combustible storage or provide automatic fire sprinklers. (904, 1001(i) hc)",
+      "nov_item_description": "remove all combustible material at rear of building",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -77,7 +77,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-23T05:02:34.000",
+      "data_as_of": "2026-10-24T05:04:39.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -90,8 +90,8 @@
     },
     {
       "complaint_number": "202200255",
-      "item_sequence_number": "1368808",
-      "primary_key": "202200255-1368808",
+      "item_sequence_number": "1368809",
+      "primary_key": "202200255-1368809",
       "date_filed": "2022-12-15T00:00:00.000",
       "block": "6524",
       "lot": "019A",
@@ -102,8 +102,8 @@
       "receiving_division": "Housing Inspection Services",
       "assigned_division": "Housing Inspection Services",
       "nov_category_description": "building section",
-      "item": "inspectors comment",
-      "nov_item_description": "no violations observed at the time of inspection.",
+      "item": "submit section 604 compliance affidavit (604 hc)",
+      "nov_item_description": "a section 604 compliance affidavit is now due for this property. have an appropriately licensed professional inspect those exterior building components exposed to the elements to insure they are structurally sound. submit the completed affidavit to the housing inspector at stephen.mungovan@sfgov.org or the housing inspection division of the department of building inspection. a section 604 affidavit has been included in this mailing.",
       "neighborhoods_analysis_boundaries": "Mission",
       "supervisor_district": "9",
       "zipcode": "94110",
@@ -115,7 +115,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-23T05:02:34.000",
+      "data_as_of": "2026-10-24T05:04:39.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -153,7 +153,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-23T05:02:34.000",
+      "data_as_of": "2026-10-24T05:04:39.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -191,7 +191,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-10-23T05:02:34.000",
+      "data_as_of": "2026-10-24T05:04:39.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -244,6 +244,6 @@
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-10-24T10:09:10.472Z"
+    "scored_at": "2026-10-25T10:35:04.997Z"
   }
 }
