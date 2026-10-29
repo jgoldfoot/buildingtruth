@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:59:27.449Z",
+  "generated_at": "2026-10-29T12:10:01.660Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -15,13 +15,13 @@
       "name": "Trinity Properties",
       "slug": "trinity-properties",
       "total_units": 2,
-      "composite_score": 10,
+      "composite_score": 32.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1583,
-          "percentile": 0,
-          "weighted": 0
+          "raw_value": 0.0426,
+          "percentile": 75,
+          "weighted": 22.5
         },
         "eviction_rate": {
           "raw_value": 0.7854,
@@ -45,7 +45,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 4,
+        "dbi_complaints": 5,
         "eviction_notices": 26,
         "rent_board_petitions": 23,
         "three_eleven_cases": 0,
@@ -57,13 +57,13 @@
       "name": "Robert Imhoff / Landmark Realty",
       "slug": "robert-imhoff",
       "total_units": 3,
-      "composite_score": 45,
+      "composite_score": 37.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.1295,
-          "percentile": 25,
-          "weighted": 7.5
+          "raw_value": 0.3392,
+          "percentile": 0,
+          "weighted": 0
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -87,7 +87,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 35,
+        "dbi_complaints": 105,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -141,13 +141,13 @@
       "name": "Kaushik Dattani / Dattani & Company",
       "slug": "kaushik-dattani",
       "total_units": 3,
-      "composite_score": 72.5,
+      "composite_score": 65,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
-          "raw_value": 0.037,
-          "percentile": 75,
-          "weighted": 22.5
+          "raw_value": 0.0648,
+          "percentile": 50,
+          "weighted": 15
         },
         "eviction_rate": {
           "raw_value": 0,
@@ -171,7 +171,7 @@
         }
       },
       "record_counts": {
-        "dbi_complaints": 10,
+        "dbi_complaints": 20,
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
@@ -183,13 +183,13 @@
       "name": "Brian & Sam Hunt",
       "slug": "brian-sam-hunt",
       "total_units": 2,
-      "composite_score": 75,
+      "composite_score": 67.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
           "raw_value": 0.0679,
-          "percentile": 50,
-          "weighted": 15
+          "percentile": 25,
+          "weighted": 7.5
         },
         "eviction_rate": {
           "raw_value": 0,
