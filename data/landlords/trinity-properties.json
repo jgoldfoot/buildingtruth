@@ -19,44 +19,6 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "202315970",
-      "item_sequence_number": "1384527",
-      "primary_key": "202315970-1384527",
-      "date_filed": "2023-11-14T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "repair leak (1001 sfhc)",
-      "nov_item_description": "in boiler room, pipes are leaking. repair or replace. if replaced, permits required.",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-11-05T05:03:50.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
       "complaint_number": "201587342",
       "item_sequence_number": "825550",
       "primary_key": "201587342-825550",
@@ -83,7 +45,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-05T05:03:50.000",
+      "data_as_of": "2026-11-06T13:32:14.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -121,7 +83,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-05T05:03:50.000",
+      "data_as_of": "2026-11-06T13:32:14.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -133,22 +95,19 @@
       ":@computed_region_rxqg_mtj9": "1"
     },
     {
-      "complaint_number": "202315970",
-      "item_sequence_number": "1384525",
-      "primary_key": "202315970-1384525",
-      "date_filed": "2023-11-14T00:00:00.000",
+      "complaint_number": "202287609",
+      "primary_key": "202287609",
+      "date_filed": "2022-02-16T00:00:00.000",
       "block": "0047",
       "lot": "002B",
       "street_number": "1000",
       "street_name": "Chestnut",
       "street_suffix": "St",
       "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "maintain fire escape drop ladder (801, 1001-b,m sfhc)",
-      "nov_item_description": "on reinspection day, owner or owner's representative must demonstrate the workability of all fire escape drop ladders or provide a certificate from a fire escape maintenance company indicating that the drop ladders are in good working condition.",
+      "receiving_division": "Plumbing Inspection Division",
+      "assigned_division": "Plumbing Inspection Division",
       "neighborhoods_analysis_boundaries": "Russian Hill",
+      "code_violation_desc": "No permit to operate the boiler. serial no C94108724, CMC 1022.    Monthly monitoring fee applies.  Code Sec:  SFBC 110A, Table 1A-K",
       "supervisor_district": "2",
       "zipcode": "94109",
       "location": {
@@ -159,45 +118,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-05T05:03:50.000",
-      ":@computed_region_yftq_j783": "5",
-      ":@computed_region_jx4q_fizf": "1",
-      ":@computed_region_ajp5_b2md": "32",
-      ":@computed_region_bh8s_q3mv": "28858",
-      ":@computed_region_jwn9_ihcz": "107",
-      ":@computed_region_6qbp_sg9q": "107",
-      ":@computed_region_qgnn_b9vv": "6",
-      ":@computed_region_26cr_cadq": "6",
-      ":@computed_region_rxqg_mtj9": "1"
-    },
-    {
-      "complaint_number": "202315970",
-      "item_sequence_number": "1384529",
-      "primary_key": "202315970-1384529",
-      "date_filed": "2023-11-14T00:00:00.000",
-      "block": "0047",
-      "lot": "002B",
-      "street_number": "1000",
-      "street_name": "Chestnut",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "building section",
-      "item": "inspector comments.",
-      "nov_item_description": "it is the property owner's responsibility to be present or direct his/her representative to attend the reinspection as scheduled on this notice of violation for the purpose of providing the inspector access to interior common areas, storage rooms, boiler room, garages, exit paths, basement and rear of building and to all areas cited within this notice. it is the responsibility of the property owner to provide tenants with notification, as required by california civil code section 1954 (san francisco housing code section 303(b)), if any dwellings, apartment units or guest rooms are to be accessed during reinspection(s).",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "2",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.420120564,
-          37.803132826
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-11-05T05:03:50.000",
+      "data_as_of": "2026-11-06T13:32:14.000",
       ":@computed_region_yftq_j783": "5",
       ":@computed_region_jx4q_fizf": "1",
       ":@computed_region_ajp5_b2md": "32",
@@ -3058,13 +2979,13 @@
     }
   ],
   "score": {
-    "composite_score": 10,
+    "composite_score": 25,
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.269,
-        "percentile": 0,
-        "weighted": 0
+        "raw_value": 0.1108,
+        "percentile": 50,
+        "weighted": 15
       },
       "eviction_rate": {
         "raw_value": 0.7854,
@@ -3088,12 +3009,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 5,
+      "dbi_complaints": 3,
       "eviction_notices": 26,
       "rent_board_petitions": 23,
       "three_eleven_cases": 0,
       "building_permits": 6
     },
-    "scored_at": "2026-11-06T13:39:33.641Z"
+    "scored_at": "2026-11-07T12:20:27.728Z"
   }
 }
