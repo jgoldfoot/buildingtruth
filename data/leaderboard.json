@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:13:46.298Z",
+  "generated_at": "2026-11-11T13:29:06.371Z",
   "total_landlords": 28,
   "scored_landlords": 5,
   "weights": {
@@ -24,7 +24,7 @@
           "weighted": 7.5
         },
         "eviction_rate": {
-          "raw_value": 0.7854,
+          "raw_value": 0,
           "percentile": 0,
           "weighted": 0
         },
@@ -39,17 +39,17 @@
           "weighted": 0
         },
         "permit_investment": {
-          "raw_value": 1.9887,
+          "raw_value": 0,
           "percentile": 100,
           "weighted": 10
         }
       },
       "record_counts": {
         "dbi_complaints": 4,
-        "eviction_notices": 26,
+        "eviction_notices": 0,
         "rent_board_petitions": 23,
         "three_eleven_cases": 0,
-        "building_permits": 6
+        "building_permits": 0
       }
     },
     {
@@ -57,7 +57,7 @@
       "name": "Robert Imhoff / Landmark Realty",
       "slug": "robert-imhoff",
       "total_units": 3,
-      "composite_score": 37.5,
+      "composite_score": 35,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
@@ -81,9 +81,9 @@
           "weighted": 7.5
         },
         "permit_investment": {
-          "raw_value": 1.1611,
-          "percentile": 75,
-          "weighted": 7.5
+          "raw_value": 0,
+          "percentile": 50,
+          "weighted": 5
         }
       },
       "record_counts": {
@@ -91,7 +91,7 @@
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
-        "building_permits": 7
+        "building_permits": 0
       }
     },
     {
@@ -99,7 +99,7 @@
       "name": "Thomas Aquilina",
       "slug": "thomas-aquilina",
       "total_units": 1,
-      "composite_score": 40,
+      "composite_score": 45,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
@@ -124,8 +124,8 @@
         },
         "permit_investment": {
           "raw_value": 0,
-          "percentile": 25,
-          "weighted": 2.5
+          "percentile": 75,
+          "weighted": 7.5
         }
       },
       "record_counts": {
@@ -183,7 +183,7 @@
       "name": "Kaushik Dattani / Dattani & Company",
       "slug": "kaushik-dattani",
       "total_units": 3,
-      "composite_score": 80,
+      "composite_score": 77.5,
       "insufficient_data": false,
       "signals": {
         "dbi_violations": {
@@ -207,9 +207,9 @@
           "weighted": 11.25
         },
         "permit_investment": {
-          "raw_value": 0.3191,
-          "percentile": 50,
-          "weighted": 5
+          "raw_value": 0,
+          "percentile": 25,
+          "weighted": 2.5
         }
       },
       "record_counts": {
@@ -217,7 +217,7 @@
         "eviction_notices": 0,
         "rent_board_petitions": 0,
         "three_eleven_cases": 0,
-        "building_permits": 3
+        "building_permits": 0
       }
     },
     {
