@@ -19,35 +19,6 @@
   ],
   "dbi_complaints": [
     {
-      "complaint_number": "200119350",
-      "item_sequence_number": "77663",
-      "primary_key": "200119350-77663",
-      "date_filed": "2001-07-20T00:00:00.000",
-      "block": "0154",
-      "lot": "027",
-      "street_number": "1964",
-      "street_name": "Larkin",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "interior surfaces section",
-      "item": "remove or cover damaged paint in an approved manner to prevent a lead hazard. see attached lead hazard warning. (1301 hc)",
-      "nov_item_description": "where required at the front exterior of the building and collected in a safe manner.",
-      "neighborhoods_analysis_boundaries": "Russian Hill",
-      "supervisor_district": "3",
-      "zipcode": "94109",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.419797344,
-          37.795966982
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
-    },
-    {
       "complaint_number": "200711356",
       "item_sequence_number": "229295",
       "primary_key": "200711356-229295",
@@ -75,24 +46,34 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
-      "complaint_number": "201310064",
-      "primary_key": "201310064",
-      "date_filed": "2013-06-27T00:00:00.000",
+      "complaint_number": "200119350",
+      "item_sequence_number": "77663",
+      "primary_key": "200119350-77663",
+      "date_filed": "2001-07-20T00:00:00.000",
       "block": "0154",
       "lot": "027",
       "street_number": "1964",
       "street_name": "Larkin",
       "street_suffix": "St",
-      "unit": "0",
       "status": "not active",
-      "receiving_division": "Inspection Services",
-      "assigned_division": "Plumbing Inspection Division",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "interior surfaces section",
+      "item": "remove or cover damaged paint in an approved manner to prevent a lead hazard. see attached lead hazard warning. (1301 hc)",
+      "nov_item_description": "where required at the front exterior of the building and collected in a safe manner.",
       "neighborhoods_analysis_boundaries": "Russian Hill",
-      "work_without_permit": "Y",
-      "code_violation_desc": "A complaint has been filed with thie Plumbing Inspection Division regarding possible plumbing work without permit. 1) SAS piping. 2) Bathroom installation. Access required to all storage areas and mechnical rooms.",
       "supervisor_district": "3",
       "zipcode": "94109",
       "location": {
@@ -103,7 +84,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
     },
     {
       "complaint_number": "200119350",
@@ -132,7 +122,53 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
+    },
+    {
+      "complaint_number": "201310064",
+      "primary_key": "201310064",
+      "date_filed": "2013-06-27T00:00:00.000",
+      "block": "0154",
+      "lot": "027",
+      "street_number": "1964",
+      "street_name": "Larkin",
+      "street_suffix": "St",
+      "unit": "0",
+      "status": "not active",
+      "receiving_division": "Inspection Services",
+      "assigned_division": "Plumbing Inspection Division",
+      "neighborhoods_analysis_boundaries": "Russian Hill",
+      "work_without_permit": "Y",
+      "code_violation_desc": "A complaint has been filed with thie Plumbing Inspection Division regarding possible plumbing work without permit. 1) SAS piping. 2) Bathroom installation. Access required to all storage areas and mechnical rooms.",
+      "supervisor_district": "3",
+      "zipcode": "94109",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419797344,
+          37.795966982
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
     },
     {
       "complaint_number": "200564221",
@@ -161,7 +197,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "201477432",
@@ -190,7 +235,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "200119350",
@@ -219,7 +273,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
     },
     {
       "complaint_number": "200564221",
@@ -248,7 +311,54 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
+    },
+    {
+      "complaint_number": "201477401",
+      "item_sequence_number": "643065",
+      "primary_key": "201477401-643065",
+      "date_filed": "2014-06-06T00:00:00.000",
+      "block": "6515",
+      "lot": "002",
+      "street_number": "306",
+      "street_name": "Bartlett",
+      "street_suffix": "St",
+      "status": "not active",
+      "receiving_division": "Housing Inspection Services",
+      "assigned_division": "Housing Inspection Services",
+      "nov_category_description": "plumbing and electrical section",
+      "item": "repair bathroom sink/tub (1001f hc)",
+      "nov_item_description": "restore bathroom sink and tub to proper working order in an approved manner.",
+      "neighborhoods_analysis_boundaries": "Mission",
+      "supervisor_district": "9",
+      "zipcode": "94110",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419827898,
+          37.751833022
+        ]
+      },
+      "point_source": "eas_address_point",
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "200711356",
@@ -278,36 +388,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
-    },
-    {
-      "complaint_number": "201477401",
-      "item_sequence_number": "643065",
-      "primary_key": "201477401-643065",
-      "date_filed": "2014-06-06T00:00:00.000",
-      "block": "6515",
-      "lot": "002",
-      "street_number": "306",
-      "street_name": "Bartlett",
-      "street_suffix": "St",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "plumbing and electrical section",
-      "item": "repair bathroom sink/tub (1001f hc)",
-      "nov_item_description": "restore bathroom sink and tub to proper working order in an approved manner.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.419827898,
-          37.751833022
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "200119350",
@@ -336,7 +426,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "5",
+      ":@computed_region_jx4q_fizf": "1",
+      ":@computed_region_ajp5_b2md": "32",
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_jwn9_ihcz": "16",
+      ":@computed_region_6qbp_sg9q": "16",
+      ":@computed_region_qgnn_b9vv": "6",
+      ":@computed_region_26cr_cadq": "3",
+      ":@computed_region_rxqg_mtj9": "10"
     },
     {
       "complaint_number": "200564221",
@@ -364,37 +463,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
-    },
-    {
-      "complaint_number": "200711356",
-      "item_sequence_number": "229302",
-      "primary_key": "200711356-229302",
-      "date_filed": "2007-07-06T00:00:00.000",
-      "block": "6515",
-      "lot": "002",
-      "street_number": "306",
-      "street_name": "Bartlett",
-      "street_suffix": "St",
-      "unit": "0",
-      "status": "not active",
-      "receiving_division": "Housing Inspection Services",
-      "assigned_division": "Housing Inspection Services",
-      "nov_category_description": "other section",
-      "item": "post enclosed gas meter instructional diagram in a public area. (712 hc)",
-      "nov_item_description": "post gas diagram in a visible location so tenants are aware of emergency gas shut off procedures.",
-      "neighborhoods_analysis_boundaries": "Mission",
-      "supervisor_district": "9",
-      "zipcode": "94110",
-      "location": {
-        "type": "Point",
-        "coordinates": [
-          -122.419827898,
-          37.751833022
-        ]
-      },
-      "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     }
   ],
   "eviction_notices": [],
@@ -406,7 +484,7 @@
     "insufficient_data": false,
     "signals": {
       "dbi_violations": {
-        "raw_value": 0.1262,
+        "raw_value": 0.1165,
         "percentile": 50,
         "weighted": 15
       },
@@ -432,12 +510,12 @@
       }
     },
     "record_counts": {
-      "dbi_complaints": 13,
+      "dbi_complaints": 12,
       "eviction_notices": 0,
       "rent_board_petitions": 0,
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-11-13T13:50:39.275Z"
+    "scored_at": "2026-11-14T12:54:06.097Z"
   }
 }

@@ -51,7 +51,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "202313733",
@@ -80,7 +89,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "201620383",
@@ -106,7 +124,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     },
     {
       "complaint_number": "201319651",
@@ -135,7 +162,16 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-13T05:02:34.000"
+      "data_as_of": "2026-11-13T05:02:34.000",
+      ":@computed_region_yftq_j783": "2",
+      ":@computed_region_jx4q_fizf": "7",
+      ":@computed_region_ajp5_b2md": "20",
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_jwn9_ihcz": "53",
+      ":@computed_region_6qbp_sg9q": "53",
+      ":@computed_region_qgnn_b9vv": "3",
+      ":@computed_region_26cr_cadq": "2",
+      ":@computed_region_rxqg_mtj9": "7"
     }
   ],
   "eviction_notices": [],
@@ -304,6 +340,6 @@
       "three_eleven_cases": 0,
       "building_permits": 3
     },
-    "scored_at": "2026-11-13T13:50:39.279Z"
+    "scored_at": "2026-11-14T12:54:06.102Z"
   }
 }
