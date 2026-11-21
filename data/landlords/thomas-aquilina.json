@@ -39,7 +39,7 @@
         ]
       },
       "point_source": "eas_address_point",
-      "data_as_of": "2026-11-20T05:04:59.000",
+      "data_as_of": "2026-11-21T05:04:54.000",
       ":@computed_region_yftq_j783": "2",
       ":@computed_region_jx4q_fizf": "7",
       ":@computed_region_ajp5_b2md": "20",
@@ -92,6 +92,6 @@
       "three_eleven_cases": 0,
       "building_permits": 0
     },
-    "scored_at": "2026-11-20T14:48:48.408Z"
+    "scored_at": "2026-11-21T14:03:40.639Z"
   }
 }
